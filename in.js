@@ -28,7 +28,11 @@ checkInput = function()
 			{
 				if( !--o.debounce_count)
 				{
-					o.callback(current);
+					if(  current != o.callback_current  )
+					{
+						o.callback_value = current;
+						o.callback(current);
+					}
 				}
 			}
 		}
@@ -43,7 +47,8 @@ register = function( in_ndx, callback, debounce )
 		callback: callback,
 		debounce: debounce,
 		debounce_count: debounce,
-		last: input[in_ndx].get()
+		last: input[in_ndx].get(),
+		callback_current: input[in_ndx].get()
 	};
 	targets.push( o );
 	return o;
@@ -58,5 +63,6 @@ setInterval( checkInput, 1000 );
 module.exports = 
 {
 	register:register,
-	unregister:unregister
+	unregister:unregister,
+	topoff:0
 }

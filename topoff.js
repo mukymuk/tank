@@ -12,6 +12,7 @@ var interval = null;
 var done = false;
 var topoff = false;
 
+
 off = function()
 {
 	log("topoff, off");
@@ -47,7 +48,7 @@ cb = function( state )
 		topoff = false;
 }
 
-inp.register( 0, cb, 3 );
+inp.register( inp.topoff, cb, 3 );
 
 exports.close = function()
 {

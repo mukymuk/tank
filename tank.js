@@ -1,4 +1,7 @@
-#!/usr/local/bin/node
+
+var log = require('./log').log;
+
+log("tank, start");
 
 var tod = require('./tod');
 var tanklight = require('./tanklight');
@@ -7,6 +10,10 @@ var tanklight = require('./tanklight');
 var sumplight = require('./sumplight');
 var topoff = require('./topoff');
 var gpio = require('./gpio');
+
+
+require('./sumpcirc');
+
 
 var leftLampConfig = 
 [
@@ -84,6 +91,7 @@ schedule = function()
 	}
 	setTimeout( schedule, 60000);
 }
+
 
 schedule();
 

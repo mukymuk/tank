@@ -47,7 +47,7 @@ toString = function( seconds)
 	minutes = Math.floor(t/60);
 	t=t-(minutes*60);
 	seconds = t;
-	return sprintf( "%2.2d:%2.2d:%2.2d", hours, minutes, seconds );
+	return sprintf( "%.2d:%.2d:%.2d", hours, minutes, seconds );
 }
 
 intersect = function( o, tod )

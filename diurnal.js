@@ -1,4 +1,3 @@
-s
 
 create = function( period, event )
 {
