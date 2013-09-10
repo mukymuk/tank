@@ -27,8 +27,6 @@ init = function()
 	flow();
 }
 
-init();
-
 module.exports =
 {
 	init: init

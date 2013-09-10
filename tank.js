@@ -13,7 +13,7 @@ var gpio = require('./gpio');
 
 
 require('./sumpcirc');
-var circ = require'./circ');
+var circ = require('./circ');
 
 
 
