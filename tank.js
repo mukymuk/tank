@@ -13,6 +13,8 @@ var gpio = require('./gpio');
 
 
 require('./sumpcirc');
+var circ = require'./circ');
+
 
 
 var leftLampConfig = 
@@ -92,6 +94,7 @@ schedule = function()
 	setTimeout( schedule, 60000);
 }
 
+circ.init();
 
 schedule();
 
