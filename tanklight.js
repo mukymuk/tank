@@ -2,6 +2,8 @@ var gpio = require('./gpio');
 var log = require('./log').log;
 
 
+var override = true;
+
 var left = 
 { 
 	power: gpio.open(63), 
@@ -34,7 +36,7 @@ open = function( light )
 	{
 		set: function( state )
 		{
-			if( state ==  o.get() )
+			if( state ==  o.get() || (override == true) )
 				return;
 			var fanState = true;
 			log( 'tanklight, %s, %d', light, state );

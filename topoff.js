@@ -1,60 +1,57 @@
-var rb = require('./rb');
-var inp = require('./in');
 var log = require('./log').log;
+var rb = require('./rb');
 var alarm = require('./alarm');
+var inp = require('./in');
+var periodic = require('./periodic');
 
 var waterlevel = rb.open(1,2);
 
-var onPeriod = 60 * 1000;
-var offPeriod = 60 * 1000;
 
-var interval = null;
-var done = false;
 var topoff = false;
+var p = null;
 
 
-off = function()
+topOffPump = function (periodic, onOff )
 {
-	log("topoff, off");
-	waterlevel.set(false); 
-	if( topoff == false )
-	{
-		clearInterval( interval );
-		interval = null;
-	}
-}
-
-modulate = function()
-{
+	log("topoff, %s", onOff ? "on", "off" );
 	alarm.set( alarm.config.close );
-	log("topoff, on");
-	waterlevel.set(true);
-	setTimeout( off, onPeriod );
+	waterlevel.set( onOff );
 }
 
 cb = function( state )
 {
-	log(" state = %d", state );
+	log("state=%d", state );
 	if( state )
 	{
-		topoff = true;
-		if(  interval == null  )
+		if( !p )
 		{
-			modulate();
-			interval = setInterval( modulate, onPeriod+offPeriod);
+			p = periodic.createBinary( topOffPump, 3, 7 );
 		}
 	}
 	else
-		topoff = false;
+	{
+		if( !p )
+		{
+		}
+	}
 }
 
-inp.register( inp.topoff, cb, 3 );
 
-exports.close = function()
+close = function()
 {
-	clearInterval( interval );
+	p.Stop();
 	log("topoff, off");
 	waterlevel.set(false);
 }
 
+open = function()
+{
+	inp.register( inp.topoff, cb, 3 );
+}
 
+
+module.exports = 
+{
+	open: open,
+	close: close
+}

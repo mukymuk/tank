@@ -15,7 +15,13 @@ var gpio = require('./gpio');
 require('./sumpcirc');
 var circ = require('./circ');
 
+var rb = require('./rb');
 
+var skimmer = rb.open(1,0);
+var sumpPump = rb.open(1,1);
+
+skimmer.set(true);
+sumpPump.set(true);
 
 var leftLampConfig = 
 [
@@ -95,6 +101,7 @@ schedule = function()
 }
 
 circ.init();
+topoff.open();
 
 schedule();
 
