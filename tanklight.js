@@ -6,24 +6,24 @@ var override = true;
 
 var left = 
 { 
-	power: gpio.open(117), 
-	p750: gpio.open(110),
+	power: gpio.open(51), 
+	p750: gpio.open(70),
 	p1000: gpio.open(80),
-	p1100: gpio.open(111)
+	p1100: gpio.open(44)
 };
 var center = 
 { 
-	power: gpio.open(115), 
-	p750: gpio.open(35),
-	p1000: gpio.open(45),
-	p1100: gpio.open(44)
+	power: gpio.open(45), 
+	p750: gpio.open(68),
+	p1000: gpio.open(23),
+	p1100: gpio.open(116)
 };
 var right = 
 { 
-	power: gpio.open(113), 
-	p750: gpio.open(38),
-	p1000: gpio.open(39),
-	p1100: gpio.open(34)
+	power: gpio.open(50), 
+	p750: gpio.open(66),
+	p1000: gpio.open(67),
+	p1100: gpio.open(69)
 };
 
 var lamps = new Array();

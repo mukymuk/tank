@@ -29,11 +29,11 @@ fi
 
 if [ $BOARD -eq "1" ] ; then
     case "$RELAY" in
-	"1") GPIO=36
+	"1") GPIO=47
 	;;
-	"2") GPIO=33
+	"2") GPIO=46
 	;;
-	"3") GPIO=32
+	"3") GPIO=27
 	;;
 	"4") GPIO=61
 	;;

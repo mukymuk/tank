@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # enable SPI access from userland
-echo TANK > /sys/devices/bone_capemgr.*/slots
+
 
 output ()
 {
@@ -21,41 +21,41 @@ input ()
 ###############################################################################
 # BALLAST RELAY BOARD
 
-# GPIO1_6 - RELAY K1 -- right 750W
-output 38
+# GPIO2_2 - RELAY K1 -- right 750W
+output 66
 
-# GPIO1_7 - K2 -- right 1000W
-output 39
+# GPIO2_3 - K2 -- right 1000W
+output 67
 
-# GPIO1_2 - K3 -- right 1100W
-output 34
+# GPIO2_5 - K3 -- right 1100W
+output 69
 
-# GPIO1_3 - K4 -- center 750W
-output 35
+# GPIO2_4 - K4 -- center 750W
+output 68
 
-# GPIO1_13 - K5 -- center 1000W
-output 45
+# GPIO0_23 - K5 -- center 1000W
+output 23
 
-# GPIO1_12 - K6 -- center 1100W
-output 44
+# GPIO3_20 - K6 -- center 1100W
+output 116
 
-# GPIO3_14 - K7 -- left 750W
-output 110
+# GPIO2_6 - K7 -- left 750W
+output 70
 
 # GPIO2_16 - K8 -- left 1000W
 output 80
 
-# GPIO3_15 - K9 -- left 1100W
-output 111
+# GPIO1_12 - K9 -- left 1100W
+output 44
 
-# GPIO3_17 - K10 -- right ballast power
-output 113
+# GPIO1_18 - K10 -- right ballast power
+output 50
 
-# GPIO3_19 - K11 -- center ballast power
-output 115
+# GPIO1_13 - K11 -- center ballast power
+output 45
 
-# GPIO3_21 - K12 -- left ballast power
-output 117
+# GPIO1_19 - K12 -- left ballast power
+output 51
 
 # GPIO2_9 - J9 # heater
 output 73
@@ -66,14 +66,14 @@ output 37
 ###############################################################################
 # RELAY BOARD 1
 
-# GPIO1_4 - 1 
-output 36
+# GPIO1_15 - 1 
+output 47
 
-# GPIO1_1 - 2
-output 33
+# GPIO1_14 - 2
+output 46
 
-# GPIO1_0 - 3
-output 32
+# GPIO0_27 - 3
+output 27
 
 # GPIO1_29 - 4
 output 61

@@ -35,20 +35,20 @@ if [ $BALLAST != "l" ] && [ $BALLAST != "c" ] && [ $BALLAST != "r" ]; then
 fi
 
 case "$BALLAST" in
-    "l") GPIO_POWER=63 
-	 GPIO_750=110
+    "l") GPIO_POWER=51 
+	 GPIO_750=70
 	 GPIO_1000=80
-	 GPIO_1100=111
-    ;;
-    "c") GPIO_POWER=115 
-	 GPIO_750=35
-	 GPIO_1000=45
 	 GPIO_1100=44
     ;;
-    "r") GPIO_POWER=113
-	 GPIO_750=38
-	 GPIO_1000=39
-	 GPIO_1100=34
+    "c") GPIO_POWER=45 
+	 GPIO_750=68
+	 GPIO_1000=23
+	 GPIO_1100=116
+    ;;
+    "r") GPIO_POWER=50
+	 GPIO_750=66
+	 GPIO_1000=67
+	 GPIO_1100=69
     ;;
 esac
 

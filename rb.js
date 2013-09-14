@@ -3,9 +3,9 @@ var gpio = require('./gpio');
 var rb = 
 [
 	[
-		gpio.open(36),
-		gpio.open(33),
-		gpio.open(32),
+		gpio.open(47),
+		gpio.open(46),
+		gpio.open(27),
 		gpio.open(61),
 		gpio.open(86),
 		gpio.open(88),
