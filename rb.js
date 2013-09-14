@@ -16,9 +16,9 @@ var rb =
 		gpio.open(77),
 		gpio.open(76),
 		gpio.open(78),
-		gpio.open(75),
+		gpio.open(79),
 		gpio.open(8),
-		gpio.open(73),
+		gpio.open(11),
 		gpio.open(9),
 		gpio.open(81)
 	]

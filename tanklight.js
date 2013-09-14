@@ -6,21 +6,21 @@ var override = true;
 
 var left = 
 { 
-	power: gpio.open(63), 
-	p750: gpio.open(47),
-	p1000: gpio.open(46),
-	p1100: gpio.open(27)
+	power: gpio.open(117), 
+	p750: gpio.open(110),
+	p1000: gpio.open(80),
+	p1100: gpio.open(111)
 };
 var center = 
 { 
-	power: gpio.open(22), 
+	power: gpio.open(115), 
 	p750: gpio.open(35),
 	p1000: gpio.open(45),
 	p1100: gpio.open(44)
 };
 var right = 
 { 
-	power: gpio.open(65), 
+	power: gpio.open(113), 
 	p750: gpio.open(38),
 	p1000: gpio.open(39),
 	p1100: gpio.open(34)
