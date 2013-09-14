@@ -1,0 +1,2 @@
+echo TANK > /sys/devices/bone_capemgr.*/slots
+cat /sys/devices/bone_capemgr.*/slots
