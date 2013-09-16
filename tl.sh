@@ -9,6 +9,16 @@ usage(){
 	exit
 }
 
+fan()
+{
+    if [ $(cat /sys/class/gpio/gpio51/value) -eq "0" ] && [ $(cat /sys/class/gpio/gpio45/value) -eq "0" ] && [ $(cat /sys/class/gpio/gpio50/value) -eq "0" ]; then
+	sh ${FAN_SCRIPT} 0
+	echo "fan off."
+    else
+	sh ${FAN_SCRIPT} 1
+    fi
+}
+
 current(){
     if [ $(cat /sys/class/gpio/gpio${GPIO_POWER}/value) -eq "0" ]; then
     	POWER=0
@@ -65,33 +75,29 @@ else
 		echo 0 > /sys/class/gpio/gpio${GPIO_1100}/value
 		echo 0 > /sys/class/gpio/gpio${GPIO_1000}/value
 		echo 0 > /sys/class/gpio/gpio${GPIO_750}/value
-		sh ${FAN_SCRIPT} 0
 	;;
 	"600") 	echo 0 > /sys/class/gpio/gpio${GPIO_750}/value
 		echo 0 > /sys/class/gpio/gpio${GPIO_1000}/value
 		echo 0 > /sys/class/gpio/gpio${GPIO_1100}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_POWER}/value
-		sh ${FAN_SCRIPT} 1
 	;;
 	"750")  echo 0 > /sys/class/gpio/gpio${GPIO_1100}/value
 		echo 0 > /sys/class/gpio/gpio${GPIO_1000}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_750}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_POWER}/value
-		sh ${FAN_SCRIPT} 1
 	;;
 	"1000") echo 0 > /sys/class/gpio/gpio${GPIO_1100}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_1000}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_750}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_POWER}/value
-		sh ${FAN_SCRIPT} 1
 	;;
 	"1100") echo 1 > /sys/class/gpio/gpio${GPIO_1100}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_1000}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_750}/value
 		echo 1 > /sys/class/gpio/gpio${GPIO_POWER}/value
-		sh ${FAN_SCRIPT} 1
 	;;
     esac
+    fan
     if [ "$POWER" != "$STATE" ] ; then
     	echo Lamp \'$BALLAST\' power changed from $POWER to $STATE at `date +%r`
     fi

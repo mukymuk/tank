@@ -13,7 +13,7 @@ var p = null;
 
 topOffPump = function (periodic, onOff )
 {
-	log("topoff, %s", onOff ? "on", "off" );
+	log("topoff, %s", onOff ? "on" : "off" );
 	alarm.set( alarm.config.close );
 	waterlevel.set( onOff );
 }
