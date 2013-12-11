@@ -61,7 +61,7 @@ divert = function()
 	}
 	if( daytime )
 	{
-		setTimeout( divert, 30 * 60 * 100 );	// 30 minutes
+		setTimeout( divert, 30 * 60 * 1000 );	// 30 minutes
 	}
 	else
 	{
