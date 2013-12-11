@@ -28,7 +28,7 @@ var config =
 };
 
 
-var alarm = gpio.open(37);
+var alarm = gpio.open(71);
 var id;
 
 buzz = function( config )

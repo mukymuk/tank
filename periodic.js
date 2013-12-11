@@ -13,6 +13,7 @@ dispatch = function( o, ndx )
 	}
 	else
 	{
+		log("timeout set");
 		this.timeout = setTimeout( function() { dispatch(o,ndx); }, period * 1000 );
 	}
 }
@@ -22,11 +23,13 @@ Periodic.prototype.Stop = function()
 	if( this.interval )
 	{
 		clearInterval( this.interval );
+		log("interval cleared");
 		this.interval = null;
 	}
 	if( this.timeout )
 	{
 		clearTimeout( this.timeout );
+		log("timeout cleared");
 		this.timeout = null;
 	}
 }
@@ -38,12 +41,10 @@ Periodic.prototype.Start = function()
 	for(i=0;i<l;i++)
 		totalPeriod += this.array[i].period;
 	this.Stop();
+	log("interval set");
 	this.interval = setInterval( function(o) { dispatch(o,0); }, totalPeriod * 1000, this );
 	dispatch( this, 0 );
 }
-
-// [ { period:period, func:function(arg){}, arg:arg }, ... ]
-// func, onPeriod, offPeriod
 
 function Periodic()
 {
@@ -52,6 +53,22 @@ function Periodic()
 	this.timeout = null;
 }
 
+createFromArray = function( array )
+{
+	var periodic = new Periodic();
+	periodic.array = array;
+	return periodic;
+}
+
+createBinary = function( func, onPeriod, offPeriod )
+{
+	var periodic = new Periodic();
+	periodic.array = [ { period:onPeriod, func:func, arg:true }, { period:offPeriod, func:func, arg:false } ];
+	return periodic;
+}
+
+/* 
+ 
 both = function( periodic, arg )
 {
 	if( arg )
@@ -73,25 +90,11 @@ off = function()
 {
 	log("off");
 }
-
-createFromArray = function( array )
-{
-	var periodic = new Periodic();
-	periodic.array = array;
-	return periodic;
-}
-
-createBinary = function( func, onPeriod, offPeriod )
-{
-	var periodic = new Periodic();
-	periodic.array = [ { period:onPeriod, func:func, arg:true }, { period:offPeriod, func:func, arg:false } ];
-	return periodic;
-}
-
+ 
 var p = createBinary( both, 3, 6 );
 
 p.Start();
-
+*/
 module.exports =
 {
 	createBinary: createBinary,

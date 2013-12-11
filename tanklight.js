@@ -1,8 +1,9 @@
 var gpio = require('./gpio');
 var log = require('./log').log;
 
+var daytime;
 
-var override = true;
+var override = false;
 
 var left = 
 { 
@@ -28,17 +29,23 @@ var right =
 
 var lamps = new Array();
 
+var fanState;
+
+daytime = function()
+{
+	return fanState;
+}
 
 open = function( light )
 {
 	var fan = gpio.open(61);
+	fanState = fan.get();
 	var o =
 	{
 		set: function( state )
 		{
 			if( state ==  o.get() || (override == true) )
 				return;
-			var fanState = true;
 			log( 'tanklight, %s, %d', light, state );
 			l = eval(light);
 			switch( state )
@@ -93,6 +100,7 @@ open = function( light )
 					break;
 				}
 			}
+			daytime = fanState;
 			if(  fanState != fan.get() )
 			{
 				fan.set(fanState);
@@ -120,6 +128,7 @@ open = function( light )
 
 module.exports =
 {
-	open: open
+	open: open,
+	daytime: daytime
 };
 

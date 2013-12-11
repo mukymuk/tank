@@ -6,6 +6,7 @@ var periodic = require('./periodic');
 
 var waterlevel = rb.open(1,2);
 
+var waterLevelState;
 
 var topoff = false;
 var p = null;
@@ -13,25 +14,35 @@ var p = null;
 
 topOffPump = function (periodic, onOff )
 {
+	if( onOff )
+	{
+		if( waterLevelState == false )
+		{
+			periodic.Stop();
+			p = null;
+			log("topoff, complete");
+			waterlevel.set( false );
+			return;
+		}
+	}
 	log("topoff, %s", onOff ? "on" : "off" );
-	alarm.set( alarm.config.close );
+	if( onOff )
+	{
+		alarm.set( alarm.config.close );
+	}
 	waterlevel.set( onOff );
 }
 
 cb = function( state )
 {
-	log("state=%d", state );
-	if( state )
+	//log("state=%d", state );
+	waterLevelState = state;
+	if( waterLevelState )
 	{
 		if( !p )
 		{
-			p = periodic.createBinary( topOffPump, 3, 7 );
-		}
-	}
-	else
-	{
-		if( !p )
-		{
+			p = periodic.createBinary( topOffPump, 60, 120 );
+			p.Start();
 		}
 	}
 }
@@ -39,8 +50,11 @@ cb = function( state )
 
 close = function()
 {
-	p.Stop();
-	log("topoff, off");
+	if( p )
+	{
+		p.Stop();
+		log("topoff, off");
+	}
 	waterlevel.set(false);
 }
 
@@ -55,3 +69,5 @@ module.exports =
 	open: open,
 	close: close
 }
+
+//open();

@@ -60,8 +60,8 @@ output 51
 # GPIO2_9 - J9 # heater
 output 73
 
-# GPIO1_5 - J8 # buzzer
-output 37
+# GPIO2_7 - J8 # buzzer
+output 71
 
 ###############################################################################
 # RELAY BOARD 1
