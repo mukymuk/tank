@@ -15,35 +15,36 @@ var flowHz_night = 36.0;
 var ebbTime_night = 5 * 60 * 1000;
 var ebbHz_night = 28.0;
 
+execProc = function( hz, func, time )
+{
+	hz = hz + hz * (Math.random()-0.5) * 0.2;	// randomize flow by +/- 10%
+	hz = hz.toFixed(1);
+	execFile("./x200", [ hz ] );
+	log("circ, %d, %d", hz, time / 1000 );
+	setTimeout( func, time );
+}
+
 ebb = function()
 {
-	if( daytime )
+	if( daytime() )
 	{
-		execFile("./x200", [ ebbHz_day ] );
-		log("circ, %d", ebbHz_day );
-		setTimeout( flow, ebbTime_day );
+		execProc( ebbHz_day, flow, ebbTime_day );
 	}
 	else
 	{
-		execFile("./x200", [ ebbHz_night ] );
-		log("circ, %d", ebbHz_night );
-		setTimeout( flow, ebbTime_night );
+		execProc( ebbHz_night, flow, ebbTime_night );
 	}
 }
 
 flow = function()
 {
-	if( daytime )
+	if( daytime() )
 	{
-		execFile("./x200", [ flowHz_day ] );
-		setTimeout( ebb, flowTime_day );
-		log("circ, %d", flowHz_day );
+		execProc( flowHz_day, ebb, flowHz_day );
 	}
 	else
 	{
-		execFile("./x200", [ flowHz_night ] );
-		setTimeout( ebb, flowTime_night );
-		log("circ, %d", flowHz_night );
+		execProc( flowHz_night, ebb, flowHz_night );
 	}
 }
 
@@ -59,7 +60,7 @@ divert = function()
 		diverter.set(1);
 		log("diverter, on" );
 	}
-	if( daytime )
+	if( daytime() )
 	{
 		setTimeout( divert, 30 * 60 * 1000 );	// 30 minutes
 	}

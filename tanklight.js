@@ -1,3 +1,4 @@
+var rb = require('./rb');
 var gpio = require('./gpio');
 var log = require('./log').log;
 
@@ -38,74 +39,79 @@ daytime = function()
 
 open = function( light )
 {
-	var fan = gpio.open(61);
+	var fan = rb.open(0,3);
 	fanState = fan.get();
+
 	var o =
 	{
 		set: function( state )
 		{
-			if( state ==  o.get() || (override == true) )
-				return;
-			log( 'tanklight, %s, %d', light, state );
-			l = eval(light);
-			switch( state )
+			if( state !=  o.get() && (override == false) )
 			{
-				case 0:
+				log( 'tanklight, %s, %d', light, state );
+				l = eval(light);
+				switch( state )
 				{
-					l.power.set(false);
-					l.p750.set(false);
-					l.p1000.set(false);
-					l.p1100.set(false);
-					var sum = 0;
-					for( var i=0;i<lamps.length;i++ )
+					case 0:
 					{
-						sum += lamps[i].get();
+						l.power.set(false);
+						l.p750.set(false);
+						l.p1000.set(false);
+						l.p1100.set(false);
+						var sum = 0;
+						for( var i=0;i<lamps.length;i++ )
+						{
+							sum += lamps[i].get();
+						}
+						if( !sum )
+						{
+							fanState = false;
+						}
+						break;
 					}
-					if( !sum )
+					case 600:
 					{
-						fanState = false;
+						l.p750.set(false);
+						l.p1000.set(false);
+						l.p1100.set(false);
+						l.power.set(true);
+						fanState = true;
+						break;
 					}
-					break;
-				}
-				case 600:
-				{
-					l.p750.set(false);
-					l.p1000.set(false);
-					l.p1100.set(false);
-					l.power.set(true);
-					break;
-				}
-				case 750:
-				{
-					l.p1100.set(false);
-					l.p1000.set(false);
-					l.p750.set(true);
-					l.power.set(true);
-					break;
-				}
-				case 1000:
-				{
-					l.p1100.set(false);
-					l.p1000.set(true);
-					l.p750.set(true);
-					l.power.set(true);
-					break;
-				}
-				case 1100:
-				{
-					l.p1100.set(true);
-					l.p1000.set(true);
-					l.p750.set(true);
-					l.power.set(true);
-					break;
+					case 750:
+					{
+						l.p1100.set(false);
+						l.p1000.set(false);
+						l.p750.set(true);
+						l.power.set(true);
+						fanState = true;
+						break;
+					}
+					case 1000:
+					{
+						l.p1100.set(false);
+						l.p1000.set(true);
+						l.p750.set(true);
+						l.power.set(true);
+						fanState = true;
+						break;
+					}
+					case 1100:
+					{
+						l.p1100.set(true);
+						l.p1000.set(true);
+						l.p750.set(true);
+						l.power.set(true);
+						fanState = true;
+						break;
+					}
 				}
 			}
-			daytime = fanState;
-			if(  fanState != fan.get() )
+			if( fanState != fan.get() )
 			{
+
 				fan.set(fanState);
-				if( fanState )
-					log("tanklight, fan, %s", fanState ? "on" : "off" );
+				log("tanklight, fan, %s", fanState ? "on" : "off" );
 			}
 		},
 		get: function()

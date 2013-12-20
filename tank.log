@@ -1,0 +1,4715 @@
+23:21:36, tank, start
+23:21:36, sumpcirc, right, off
+23:21:36, sumpcirc, left, on
+23:21:36, circ, 48
+23:21:36, diverter, off
+23:21:36, tanklight, center, 0
+23:21:36, tanklight, fan, off
+23:21:40, interval set
+23:21:40, topoff, on
+23:21:40, alarm, 1, input closed
+23:21:40, timeout set
+23:21:56, circ, 33.3
+23:22:36, circ, 48
+23:22:40, topoff, off
+23:22:56, circ, 33.3
+23:23:36, circ, 48
+23:23:56, circ, 33.3
+23:24:36, circ, 48
+23:24:40, topoff, on
+23:24:40, alarm, 1, input closed
+23:24:40, timeout set
+23:24:56, circ, 33.3
+23:25:36, circ, 48
+23:25:40, topoff, off
+23:25:56, circ, 33.3
+23:26:36, circ, 48
+23:26:56, circ, 33.3
+23:27:36, circ, 48
+23:27:40, topoff, on
+23:27:40, alarm, 1, input closed
+23:27:40, timeout set
+23:27:56, circ, 33.3
+23:28:36, circ, 48
+23:28:40, topoff, off
+23:28:56, circ, 33.3
+23:29:36, circ, 48
+23:29:56, circ, 33.3
+23:30:36, circ, 48
+23:30:40, topoff, on
+23:30:40, alarm, 1, input closed
+23:30:40, timeout set
+23:30:56, circ, 33.3
+23:31:36, circ, 48
+23:31:40, topoff, off
+23:31:56, circ, 33.3
+23:32:36, circ, 48
+23:32:56, circ, 33.3
+23:33:36, circ, 48
+23:33:40, topoff, on
+23:33:40, alarm, 1, input closed
+23:33:40, timeout set
+23:33:56, circ, 33.3
+23:34:36, circ, 48
+23:34:40, topoff, off
+23:34:56, circ, 33.3
+23:35:36, circ, 48
+23:35:56, circ, 33.3
+23:36:36, circ, 48
+23:36:40, topoff, on
+23:36:40, alarm, 1, input closed
+23:36:40, timeout set
+23:36:56, circ, 33.3
+23:37:36, circ, 48
+23:37:40, topoff, off
+23:37:56, circ, 33.3
+23:38:36, circ, 48
+23:38:56, circ, 33.3
+23:39:36, circ, 48
+23:39:40, topoff, on
+23:39:40, alarm, 1, input closed
+23:39:40, timeout set
+23:39:56, circ, 33.3
+23:40:36, circ, 48
+23:40:40, topoff, off
+23:40:56, circ, 33.3
+23:41:36, circ, 48
+23:41:57, circ, 33.3
+23:42:37, circ, 48
+23:42:40, topoff, on
+23:42:40, alarm, 1, input closed
+23:42:40, timeout set
+23:42:57, circ, 33.3
+23:43:37, circ, 48
+23:43:40, topoff, off
+23:43:57, circ, 33.3
+23:44:37, circ, 48
+23:44:57, circ, 33.3
+23:45:37, circ, 48
+23:45:40, topoff, on
+23:45:40, alarm, 1, input closed
+23:45:40, timeout set
+23:45:57, circ, 33.3
+23:46:37, circ, 48
+23:46:40, topoff, off
+23:46:57, circ, 33.3
+23:47:37, circ, 48
+23:47:57, circ, 33.3
+23:48:37, circ, 48
+23:48:40, topoff, on
+23:48:40, alarm, 1, input closed
+23:48:40, timeout set
+23:48:57, circ, 33.3
+23:49:37, circ, 48
+23:49:40, topoff, off
+23:49:57, circ, 33.3
+23:50:37, circ, 48
+23:50:57, circ, 33.3
+23:51:36, diverter, on
+23:51:37, circ, 48
+23:51:40, topoff, on
+23:51:40, alarm, 1, input closed
+23:51:40, timeout set
+23:51:57, circ, 33.3
+23:52:37, circ, 48
+23:52:40, topoff, off
+23:52:57, circ, 33.3
+23:53:37, circ, 48
+23:53:57, circ, 33.3
+23:54:37, circ, 48
+23:54:40, topoff, on
+23:54:40, alarm, 1, input closed
+23:54:40, timeout set
+23:54:57, circ, 33.3
+23:55:37, circ, 48
+23:55:40, topoff, off
+23:55:57, circ, 33.3
+23:56:37, circ, 48
+23:56:57, circ, 33.3
+23:57:37, circ, 48
+23:57:40, topoff, on
+23:57:40, alarm, 1, input closed
+23:57:40, timeout set
+23:57:57, circ, 33.3
+23:58:37, circ, 48
+23:58:40, topoff, off
+23:58:57, circ, 33.3
+23:59:37, circ, 48
+23:59:57, circ, 33.3
+0:0:37, circ, 48
+0:0:40, topoff, on
+0:0:40, alarm, 1, input closed
+0:0:40, timeout set
+0:0:57, circ, 33.3
+0:1:37, circ, 48
+0:1:40, topoff, off
+0:1:57, circ, 33.3
+0:2:37, circ, 48
+0:2:57, circ, 33.3
+0:3:37, circ, 48
+0:3:40, topoff, on
+0:3:40, alarm, 1, input closed
+0:3:40, timeout set
+0:3:57, circ, 33.3
+0:4:37, circ, 48
+0:4:40, topoff, off
+0:4:57, circ, 33.3
+0:5:37, circ, 48
+0:5:57, circ, 33.3
+0:6:37, circ, 48
+0:6:40, topoff, on
+0:6:40, alarm, 1, input closed
+0:6:40, timeout set
+0:6:57, circ, 33.3
+0:7:37, circ, 48
+0:7:40, topoff, off
+0:7:57, circ, 33.3
+0:8:37, circ, 48
+0:8:57, circ, 33.3
+0:9:37, circ, 48
+0:9:40, topoff, on
+0:9:40, alarm, 1, input closed
+0:9:40, timeout set
+0:9:57, circ, 33.3
+0:10:37, circ, 48
+0:10:40, topoff, off
+0:10:57, circ, 33.3
+0:11:37, circ, 48
+0:11:57, circ, 33.3
+0:12:37, circ, 48
+0:12:40, topoff, on
+0:12:40, alarm, 1, input closed
+0:12:40, timeout set
+0:12:57, circ, 33.3
+0:13:37, circ, 48
+0:13:40, topoff, off
+0:13:57, circ, 33.3
+0:14:37, circ, 48
+0:14:57, circ, 33.3
+0:15:37, circ, 48
+0:15:40, topoff, on
+0:15:40, alarm, 1, input closed
+0:15:40, timeout set
+0:15:57, circ, 33.3
+0:16:37, circ, 48
+0:16:40, topoff, off
+0:16:57, circ, 33.3
+0:17:37, circ, 48
+0:17:57, circ, 33.3
+0:18:37, circ, 48
+0:18:40, topoff, on
+0:18:40, alarm, 1, input closed
+0:18:40, timeout set
+0:18:57, circ, 33.3
+0:19:37, circ, 48
+0:19:40, topoff, off
+0:19:57, circ, 33.3
+0:20:37, circ, 48
+0:20:57, circ, 33.3
+0:21:36, diverter, off
+0:21:38, circ, 48
+0:21:40, topoff, on
+0:21:40, alarm, 1, input closed
+0:21:40, timeout set
+0:21:58, circ, 33.3
+0:22:38, circ, 48
+0:22:40, topoff, off
+0:22:58, circ, 33.3
+0:23:38, circ, 48
+0:23:58, circ, 33.3
+0:24:38, circ, 48
+0:24:40, topoff, on
+0:24:40, alarm, 1, input closed
+0:24:40, timeout set
+0:24:58, circ, 33.3
+0:25:38, circ, 48
+0:25:40, topoff, off
+0:25:58, circ, 33.3
+0:26:38, circ, 48
+0:26:58, circ, 33.3
+0:27:38, circ, 48
+0:27:40, topoff, on
+0:27:40, alarm, 1, input closed
+0:27:40, timeout set
+0:27:58, circ, 33.3
+0:28:38, circ, 48
+0:28:40, topoff, off
+0:28:58, circ, 33.3
+0:29:38, circ, 48
+0:29:58, circ, 33.3
+0:30:38, circ, 48
+0:30:40, topoff, on
+0:30:40, alarm, 1, input closed
+0:30:40, timeout set
+0:30:58, circ, 33.3
+0:31:38, circ, 48
+0:31:40, topoff, off
+0:31:58, circ, 33.3
+0:32:38, circ, 48
+0:32:58, circ, 33.3
+0:33:38, circ, 48
+0:33:40, topoff, on
+0:33:40, alarm, 1, input closed
+0:33:40, timeout set
+0:33:58, circ, 33.3
+0:34:38, circ, 48
+0:34:40, topoff, off
+0:34:58, circ, 33.3
+0:35:38, circ, 48
+0:35:58, circ, 33.3
+0:36:38, circ, 48
+0:36:40, topoff, on
+0:36:40, alarm, 1, input closed
+0:36:40, timeout set
+0:36:58, circ, 33.3
+0:37:38, circ, 48
+0:37:40, topoff, off
+0:37:58, circ, 33.3
+0:38:38, circ, 48
+0:38:58, circ, 33.3
+0:39:38, circ, 48
+0:39:40, topoff, on
+0:39:40, alarm, 1, input closed
+0:39:40, timeout set
+0:39:58, circ, 33.3
+0:40:38, circ, 48
+0:40:40, topoff, off
+0:40:58, circ, 33.3
+0:41:38, circ, 48
+0:41:58, circ, 33.3
+0:42:38, circ, 48
+0:42:40, topoff, on
+0:42:40, alarm, 1, input closed
+0:42:40, timeout set
+0:42:58, circ, 33.3
+0:43:38, circ, 48
+0:43:40, topoff, off
+0:43:58, circ, 33.3
+0:44:38, circ, 48
+0:44:58, circ, 33.3
+0:45:38, circ, 48
+0:45:40, topoff, on
+0:45:40, alarm, 1, input closed
+0:45:40, timeout set
+0:45:58, circ, 33.3
+0:46:38, circ, 48
+0:46:40, topoff, off
+0:46:58, circ, 33.3
+0:47:38, circ, 48
+0:47:58, circ, 33.3
+0:48:38, circ, 48
+0:48:40, topoff, on
+0:48:40, alarm, 1, input closed
+0:48:40, timeout set
+0:48:58, circ, 33.3
+0:49:38, circ, 48
+0:49:40, topoff, off
+0:49:58, circ, 33.3
+0:50:38, circ, 48
+0:50:58, circ, 33.3
+0:51:36, diverter, on
+0:51:38, circ, 48
+0:51:40, topoff, on
+0:51:40, alarm, 1, input closed
+0:51:40, timeout set
+0:51:58, circ, 33.3
+0:52:38, circ, 48
+0:52:40, topoff, off
+0:52:58, circ, 33.3
+0:53:38, circ, 48
+0:53:58, circ, 33.3
+0:54:38, circ, 48
+0:54:40, topoff, on
+0:54:40, alarm, 1, input closed
+0:54:40, timeout set
+0:54:58, circ, 33.3
+0:55:38, circ, 48
+0:55:40, topoff, off
+0:55:58, circ, 33.3
+0:56:38, circ, 48
+0:56:58, circ, 33.3
+0:57:38, circ, 48
+0:57:40, topoff, on
+0:57:40, alarm, 1, input closed
+0:57:40, timeout set
+0:57:58, circ, 33.3
+0:58:38, circ, 48
+0:58:40, topoff, off
+0:58:58, circ, 33.3
+0:59:39, circ, 48
+0:59:59, circ, 33.3
+1:0:39, circ, 48
+1:0:40, topoff, on
+1:0:40, alarm, 1, input closed
+1:0:40, timeout set
+1:0:59, circ, 33.3
+1:1:39, circ, 48
+1:1:40, topoff, off
+1:1:59, circ, 33.3
+1:2:39, circ, 48
+1:2:59, circ, 33.3
+1:3:39, circ, 48
+1:3:40, topoff, on
+1:3:40, alarm, 1, input closed
+1:3:40, timeout set
+1:3:59, circ, 33.3
+1:4:39, circ, 48
+1:4:40, topoff, off
+1:4:59, circ, 33.3
+1:5:39, circ, 48
+1:5:59, circ, 33.3
+1:6:39, circ, 48
+1:6:40, topoff, on
+1:6:40, alarm, 1, input closed
+1:6:40, timeout set
+1:6:59, circ, 33.3
+1:7:39, circ, 48
+1:7:40, topoff, off
+1:7:59, circ, 33.3
+1:8:39, circ, 48
+1:8:59, circ, 33.3
+1:9:39, circ, 48
+1:9:40, topoff, on
+1:9:40, alarm, 1, input closed
+1:9:40, timeout set
+1:9:59, circ, 33.3
+1:10:39, circ, 48
+1:10:40, topoff, off
+1:10:59, circ, 33.3
+1:11:39, circ, 48
+1:11:59, circ, 33.3
+1:12:39, circ, 48
+1:12:40, topoff, on
+1:12:40, alarm, 1, input closed
+1:12:40, timeout set
+1:12:59, circ, 33.3
+1:13:39, circ, 48
+1:13:40, topoff, off
+1:13:59, circ, 33.3
+1:14:39, circ, 48
+1:14:59, circ, 33.3
+1:15:39, circ, 48
+1:15:40, topoff, on
+1:15:40, alarm, 1, input closed
+1:15:40, timeout set
+1:15:59, circ, 33.3
+1:16:39, circ, 48
+1:16:40, topoff, off
+1:16:59, circ, 33.3
+1:17:39, circ, 48
+1:17:59, circ, 33.3
+1:18:39, circ, 48
+1:18:40, topoff, on
+1:18:40, alarm, 1, input closed
+1:18:40, timeout set
+1:18:59, circ, 33.3
+1:19:39, circ, 48
+1:19:40, topoff, off
+1:19:59, circ, 33.3
+1:20:39, circ, 48
+1:20:59, circ, 33.3
+1:21:36, diverter, off
+1:21:39, circ, 48
+1:21:40, topoff, on
+1:21:40, alarm, 1, input closed
+1:21:40, timeout set
+1:21:59, circ, 33.3
+1:22:39, circ, 48
+1:22:40, topoff, off
+1:22:59, circ, 33.3
+1:23:39, circ, 48
+1:23:59, circ, 33.3
+1:24:39, circ, 48
+1:24:40, topoff, on
+1:24:40, alarm, 1, input closed
+1:24:40, timeout set
+1:24:59, circ, 33.3
+1:25:39, circ, 48
+1:25:40, topoff, off
+1:25:59, circ, 33.3
+1:26:39, circ, 48
+1:26:59, circ, 33.3
+1:27:39, circ, 48
+1:27:40, topoff, on
+1:27:40, alarm, 1, input closed
+1:27:40, timeout set
+1:27:59, circ, 33.3
+1:28:39, circ, 48
+1:28:40, topoff, off
+1:28:59, circ, 33.3
+1:29:39, circ, 48
+1:29:59, circ, 33.3
+1:30:39, circ, 48
+1:30:40, topoff, on
+1:30:40, alarm, 1, input closed
+1:30:40, timeout set
+1:30:59, circ, 33.3
+1:31:39, circ, 48
+1:31:40, topoff, off
+1:31:59, circ, 33.3
+1:32:39, circ, 48
+1:32:59, circ, 33.3
+1:33:39, circ, 48
+1:33:40, topoff, on
+1:33:40, alarm, 1, input closed
+1:33:40, timeout set
+1:33:59, circ, 33.3
+1:34:39, circ, 48
+1:34:40, topoff, off
+1:34:59, circ, 33.3
+1:35:39, circ, 48
+1:35:59, circ, 33.3
+1:36:39, circ, 48
+1:36:40, topoff, on
+1:36:40, alarm, 1, input closed
+1:36:40, timeout set
+1:36:59, circ, 33.3
+1:37:39, circ, 48
+1:37:40, topoff, off
+1:37:59, circ, 33.3
+1:38:39, circ, 48
+1:38:59, circ, 33.3
+1:39:40, circ, 48
+1:39:40, topoff, on
+1:39:40, alarm, 1, input closed
+1:39:40, timeout set
+1:40:0, circ, 33.3
+1:40:40, circ, 48
+1:40:40, topoff, off
+1:41:0, circ, 33.3
+1:41:40, circ, 48
+1:42:0, circ, 33.3
+1:42:40, circ, 48
+1:42:40, topoff, on
+1:42:40, alarm, 1, input closed
+1:42:40, timeout set
+1:43:0, circ, 33.3
+1:43:40, circ, 48
+1:43:40, topoff, off
+1:44:0, circ, 33.3
+1:44:40, circ, 48
+1:45:0, circ, 33.3
+1:45:40, circ, 48
+1:45:40, topoff, on
+1:45:40, alarm, 1, input closed
+1:45:40, timeout set
+1:46:0, circ, 33.3
+1:46:40, circ, 48
+1:46:40, topoff, off
+1:47:0, circ, 33.3
+1:47:40, circ, 48
+1:48:0, circ, 33.3
+1:48:40, circ, 48
+1:48:41, topoff, on
+1:48:41, alarm, 1, input closed
+1:48:41, timeout set
+1:49:0, circ, 33.3
+1:49:40, circ, 48
+1:49:41, topoff, off
+1:50:0, circ, 33.3
+1:50:40, circ, 48
+1:51:0, circ, 33.3
+1:51:36, diverter, on
+1:51:40, circ, 48
+1:51:41, topoff, on
+1:51:41, alarm, 1, input closed
+1:51:41, timeout set
+1:52:0, circ, 33.3
+1:52:40, circ, 48
+1:52:41, topoff, off
+1:53:0, circ, 33.3
+1:53:40, circ, 48
+1:54:0, circ, 33.3
+1:54:40, circ, 48
+1:54:41, topoff, on
+1:54:41, alarm, 1, input closed
+1:54:41, timeout set
+1:55:0, circ, 33.3
+1:55:40, circ, 48
+1:55:41, topoff, off
+1:56:0, circ, 33.3
+1:56:40, circ, 48
+1:57:0, circ, 33.3
+1:57:40, circ, 48
+1:57:41, topoff, on
+1:57:41, alarm, 1, input closed
+1:57:41, timeout set
+1:58:0, circ, 33.3
+1:58:40, circ, 48
+1:58:41, topoff, off
+1:59:0, circ, 33.3
+1:59:40, circ, 48
+2:0:0, circ, 33.3
+2:0:40, circ, 48
+2:0:41, topoff, on
+2:0:41, alarm, 1, input closed
+2:0:41, timeout set
+2:1:0, circ, 33.3
+2:1:40, circ, 48
+2:1:41, topoff, off
+2:2:0, circ, 33.3
+2:2:40, circ, 48
+2:3:0, circ, 33.3
+2:3:40, circ, 48
+2:3:41, topoff, on
+2:3:41, alarm, 1, input closed
+2:3:41, timeout set
+2:4:0, circ, 33.3
+2:4:40, circ, 48
+2:4:41, topoff, off
+2:5:0, circ, 33.3
+2:5:40, circ, 48
+2:6:0, circ, 33.3
+2:6:40, circ, 48
+2:6:41, topoff, on
+2:6:41, alarm, 1, input closed
+2:6:41, timeout set
+2:7:0, circ, 33.3
+2:7:40, circ, 48
+2:7:41, topoff, off
+2:8:0, circ, 33.3
+2:8:40, circ, 48
+2:9:0, circ, 33.3
+2:9:40, circ, 48
+2:9:41, topoff, on
+2:9:41, alarm, 1, input closed
+2:9:41, timeout set
+2:10:0, circ, 33.3
+2:10:40, circ, 48
+2:10:41, topoff, off
+2:11:0, circ, 33.3
+2:11:40, circ, 48
+2:12:0, circ, 33.3
+2:12:40, circ, 48
+2:12:41, topoff, on
+2:12:41, alarm, 1, input closed
+2:12:41, timeout set
+2:13:0, circ, 33.3
+2:13:40, circ, 48
+2:13:41, topoff, off
+2:14:0, circ, 33.3
+2:14:40, circ, 48
+2:15:0, circ, 33.3
+2:15:40, circ, 48
+2:15:41, topoff, on
+2:15:41, alarm, 1, input closed
+2:15:41, timeout set
+2:16:0, circ, 33.3
+2:16:40, circ, 48
+2:16:41, topoff, off
+2:17:0, circ, 33.3
+2:17:40, circ, 48
+2:18:0, circ, 33.3
+2:18:41, circ, 48
+2:18:41, topoff, on
+2:18:41, alarm, 1, input closed
+2:18:41, timeout set
+2:19:1, circ, 33.3
+2:19:41, circ, 48
+2:19:41, topoff, off
+2:20:1, circ, 33.3
+2:20:41, circ, 48
+2:21:1, circ, 33.3
+2:21:36, sumpcirc, left, off
+2:21:36, sumpcirc, right, on
+2:21:36, diverter, off
+2:21:41, circ, 48
+2:21:41, topoff, on
+2:21:41, alarm, 1, input closed
+2:21:41, timeout set
+2:22:1, circ, 33.3
+2:22:41, circ, 48
+2:22:41, topoff, off
+2:23:1, circ, 33.3
+2:23:41, circ, 48
+2:24:1, circ, 33.3
+2:24:41, topoff, on
+2:24:41, alarm, 1, input closed
+2:24:41, timeout set
+2:24:41, circ, 48
+2:25:1, circ, 33.3
+2:25:41, topoff, off
+2:25:41, circ, 48
+2:26:1, circ, 33.3
+2:26:41, circ, 48
+2:27:1, circ, 33.3
+2:27:41, topoff, on
+2:27:41, alarm, 1, input closed
+2:27:41, timeout set
+2:27:41, circ, 48
+2:28:1, circ, 33.3
+2:28:41, topoff, off
+2:28:41, circ, 48
+2:29:1, circ, 33.3
+2:29:41, circ, 48
+2:30:1, circ, 33.3
+2:30:41, topoff, on
+2:30:41, alarm, 1, input closed
+2:30:41, timeout set
+2:30:41, circ, 48
+2:31:1, circ, 33.3
+2:31:41, topoff, off
+2:31:41, circ, 48
+2:32:1, circ, 33.3
+2:32:41, circ, 48
+2:33:1, circ, 33.3
+2:33:41, topoff, on
+2:33:41, alarm, 1, input closed
+2:33:41, timeout set
+2:33:41, circ, 48
+2:34:1, circ, 33.3
+2:34:41, topoff, off
+2:34:41, circ, 48
+2:35:1, circ, 33.3
+2:35:41, circ, 48
+2:36:1, circ, 33.3
+2:36:41, topoff, on
+2:36:41, alarm, 1, input closed
+2:36:41, timeout set
+2:36:41, circ, 48
+2:37:1, circ, 33.3
+2:37:41, topoff, off
+2:37:41, circ, 48
+2:38:1, circ, 33.3
+2:38:41, circ, 48
+2:39:1, circ, 33.3
+2:39:41, topoff, on
+2:39:41, alarm, 1, input closed
+2:39:41, timeout set
+2:39:41, circ, 48
+2:40:1, circ, 33.3
+2:40:41, topoff, off
+2:40:41, circ, 48
+2:41:1, circ, 33.3
+2:41:41, circ, 48
+2:42:1, circ, 33.3
+2:42:41, topoff, on
+2:42:41, alarm, 1, input closed
+2:42:41, timeout set
+2:42:41, circ, 48
+2:43:1, circ, 33.3
+2:43:41, topoff, off
+2:43:41, circ, 48
+2:44:1, circ, 33.3
+2:44:41, circ, 48
+2:45:1, circ, 33.3
+2:45:41, topoff, on
+2:45:41, alarm, 1, input closed
+2:45:41, timeout set
+2:45:41, circ, 48
+2:46:1, circ, 33.3
+2:46:41, topoff, off
+2:46:41, circ, 48
+2:47:1, circ, 33.3
+2:47:41, circ, 48
+2:48:1, circ, 33.3
+2:48:41, topoff, on
+2:48:41, alarm, 1, input closed
+2:48:41, timeout set
+2:48:41, circ, 48
+2:49:1, circ, 33.3
+2:49:41, topoff, off
+2:49:41, circ, 48
+2:50:1, circ, 33.3
+2:50:41, circ, 48
+2:51:1, circ, 33.3
+2:51:36, diverter, on
+2:51:41, topoff, on
+2:51:41, alarm, 1, input closed
+2:51:41, timeout set
+2:51:41, circ, 48
+2:52:1, circ, 33.3
+2:52:41, topoff, off
+2:52:41, circ, 48
+2:53:1, circ, 33.3
+2:53:41, circ, 48
+2:54:1, circ, 33.3
+2:54:41, topoff, on
+2:54:41, alarm, 1, input closed
+2:54:41, timeout set
+2:54:42, circ, 48
+2:55:2, circ, 33.3
+2:55:41, topoff, off
+2:55:42, circ, 48
+2:56:2, circ, 33.3
+2:56:42, circ, 48
+2:57:2, circ, 33.3
+2:57:41, topoff, on
+2:57:41, alarm, 1, input closed
+2:57:41, timeout set
+2:57:42, circ, 48
+2:58:2, circ, 33.3
+2:58:41, topoff, off
+2:58:42, circ, 48
+2:59:2, circ, 33.3
+2:59:42, circ, 48
+3:0:2, circ, 33.3
+3:0:41, topoff, on
+3:0:41, alarm, 1, input closed
+3:0:41, timeout set
+3:0:42, circ, 48
+3:1:2, circ, 33.3
+3:1:41, topoff, off
+3:1:42, circ, 48
+3:2:2, circ, 33.3
+3:2:42, circ, 48
+3:3:2, circ, 33.3
+3:3:41, topoff, on
+3:3:41, alarm, 1, input closed
+3:3:41, timeout set
+3:3:42, circ, 48
+3:4:2, circ, 33.3
+3:4:41, topoff, off
+3:4:42, circ, 48
+3:5:2, circ, 33.3
+3:5:42, circ, 48
+3:6:2, circ, 33.3
+3:6:41, topoff, on
+3:6:41, alarm, 1, input closed
+3:6:41, timeout set
+3:6:42, circ, 48
+3:7:2, circ, 33.3
+3:7:41, topoff, off
+3:7:42, circ, 48
+3:8:2, circ, 33.3
+3:8:42, circ, 48
+3:9:2, circ, 33.3
+3:9:41, topoff, on
+3:9:41, alarm, 1, input closed
+3:9:41, timeout set
+3:9:42, circ, 48
+3:10:2, circ, 33.3
+3:10:41, topoff, off
+3:10:42, circ, 48
+3:11:2, circ, 33.3
+3:11:42, circ, 48
+3:12:2, circ, 33.3
+3:12:41, topoff, on
+3:12:41, alarm, 1, input closed
+3:12:41, timeout set
+3:12:42, circ, 48
+3:13:2, circ, 33.3
+3:13:41, topoff, off
+3:13:42, circ, 48
+3:14:2, circ, 33.3
+3:14:42, circ, 48
+3:15:2, circ, 33.3
+3:15:41, topoff, on
+3:15:41, alarm, 1, input closed
+3:15:41, timeout set
+3:15:42, circ, 48
+3:16:2, circ, 33.3
+3:16:41, topoff, off
+3:16:42, circ, 48
+3:17:2, circ, 33.3
+3:17:42, circ, 48
+3:18:2, circ, 33.3
+3:18:41, topoff, on
+3:18:41, alarm, 1, input closed
+3:18:41, timeout set
+3:18:42, circ, 48
+3:19:2, circ, 33.3
+3:19:41, topoff, off
+3:19:42, circ, 48
+3:20:2, circ, 33.3
+3:20:42, circ, 48
+3:21:2, circ, 33.3
+3:21:36, diverter, off
+3:21:41, topoff, on
+3:21:41, alarm, 1, input closed
+3:21:41, timeout set
+3:21:42, circ, 48
+3:22:2, circ, 33.3
+3:22:41, topoff, off
+3:22:42, circ, 48
+3:23:2, circ, 33.3
+3:23:42, circ, 48
+3:24:2, circ, 33.3
+3:24:41, topoff, on
+3:24:41, alarm, 1, input closed
+3:24:41, timeout set
+3:24:42, circ, 48
+3:25:2, circ, 33.3
+3:25:41, topoff, off
+3:25:42, circ, 48
+3:26:2, circ, 33.3
+3:26:42, circ, 48
+3:27:2, circ, 33.3
+3:27:41, topoff, on
+3:27:41, alarm, 1, input closed
+3:27:41, timeout set
+3:27:42, circ, 48
+3:28:2, circ, 33.3
+3:28:41, topoff, off
+3:28:42, circ, 48
+3:29:2, circ, 33.3
+3:29:42, circ, 48
+3:30:2, circ, 33.3
+3:30:41, topoff, on
+3:30:41, alarm, 1, input closed
+3:30:41, timeout set
+3:30:42, circ, 48
+3:31:2, circ, 33.3
+3:31:41, topoff, off
+3:31:42, circ, 48
+3:32:2, circ, 33.3
+3:32:43, circ, 48
+3:33:3, circ, 33.3
+3:33:41, topoff, on
+3:33:41, alarm, 1, input closed
+3:33:41, timeout set
+3:33:43, circ, 48
+3:34:3, circ, 33.3
+3:34:41, topoff, off
+3:34:43, circ, 48
+3:35:3, circ, 33.3
+3:35:43, circ, 48
+3:36:3, circ, 33.3
+3:36:41, topoff, on
+3:36:41, alarm, 1, input closed
+3:36:41, timeout set
+3:36:43, circ, 48
+3:37:3, circ, 33.3
+3:37:41, topoff, off
+3:37:43, circ, 48
+3:38:3, circ, 33.3
+3:38:43, circ, 48
+3:39:3, circ, 33.3
+3:39:41, topoff, on
+3:39:41, alarm, 1, input closed
+3:39:41, timeout set
+3:39:43, circ, 48
+3:40:3, circ, 33.3
+3:40:41, topoff, off
+3:40:43, circ, 48
+3:41:3, circ, 33.3
+3:41:43, circ, 48
+3:42:3, circ, 33.3
+3:42:41, topoff, on
+3:42:41, alarm, 1, input closed
+3:42:41, timeout set
+3:42:43, circ, 48
+3:43:3, circ, 33.3
+3:43:41, topoff, off
+3:43:43, circ, 48
+3:44:3, circ, 33.3
+3:44:43, circ, 48
+3:45:3, circ, 33.3
+3:45:41, topoff, on
+3:45:41, alarm, 1, input closed
+3:45:41, timeout set
+3:45:43, circ, 48
+3:46:3, circ, 33.3
+3:46:41, topoff, off
+3:46:43, circ, 48
+3:47:3, circ, 33.3
+3:47:43, circ, 48
+3:48:3, circ, 33.3
+3:48:41, topoff, on
+3:48:41, alarm, 1, input closed
+3:48:41, timeout set
+3:48:43, circ, 48
+3:49:3, circ, 33.3
+3:49:41, topoff, off
+3:49:43, circ, 48
+3:50:3, circ, 33.3
+3:50:43, circ, 48
+3:51:3, circ, 33.3
+3:51:36, diverter, on
+3:51:41, topoff, on
+3:51:41, alarm, 1, input closed
+3:51:41, timeout set
+3:51:43, circ, 48
+3:52:3, circ, 33.3
+3:52:41, topoff, off
+3:52:43, circ, 48
+3:53:3, circ, 33.3
+3:53:43, circ, 48
+3:54:3, circ, 33.3
+3:54:41, topoff, on
+3:54:41, alarm, 1, input closed
+3:54:41, timeout set
+3:54:43, circ, 48
+3:55:3, circ, 33.3
+3:55:41, topoff, off
+3:55:43, circ, 48
+3:56:3, circ, 33.3
+3:56:43, circ, 48
+3:57:3, circ, 33.3
+3:57:41, topoff, on
+3:57:41, alarm, 1, input closed
+3:57:41, timeout set
+3:57:43, circ, 48
+3:58:3, circ, 33.3
+3:58:41, topoff, off
+3:58:43, circ, 48
+3:59:3, circ, 33.3
+3:59:43, circ, 48
+4:0:3, circ, 33.3
+4:0:41, topoff, on
+4:0:41, alarm, 1, input closed
+4:0:41, timeout set
+4:0:43, circ, 48
+4:1:3, circ, 33.3
+4:1:41, topoff, off
+4:1:43, circ, 48
+4:2:3, circ, 33.3
+4:2:43, circ, 48
+4:3:3, circ, 33.3
+4:3:41, topoff, on
+4:3:41, alarm, 1, input closed
+4:3:41, timeout set
+4:3:43, circ, 48
+4:4:3, circ, 33.3
+4:4:41, topoff, off
+4:4:43, circ, 48
+4:5:3, circ, 33.3
+4:5:43, circ, 48
+4:6:3, circ, 33.3
+4:6:41, topoff, on
+4:6:41, alarm, 1, input closed
+4:6:41, timeout set
+4:6:43, circ, 48
+4:7:3, circ, 33.3
+4:7:41, topoff, off
+4:7:43, circ, 48
+4:8:3, circ, 33.3
+4:8:43, circ, 48
+4:9:4, circ, 33.3
+4:9:41, topoff, on
+4:9:41, alarm, 1, input closed
+4:9:41, timeout set
+4:9:44, circ, 48
+4:10:4, circ, 33.3
+4:10:41, topoff, off
+4:10:44, circ, 48
+4:11:4, circ, 33.3
+4:11:44, circ, 48
+4:12:4, circ, 33.3
+4:12:41, topoff, on
+4:12:41, alarm, 1, input closed
+4:12:41, timeout set
+4:12:44, circ, 48
+4:13:4, circ, 33.3
+4:13:41, topoff, off
+4:13:44, circ, 48
+4:14:4, circ, 33.3
+4:14:44, circ, 48
+4:15:4, circ, 33.3
+4:15:41, topoff, on
+4:15:41, alarm, 1, input closed
+4:15:41, timeout set
+4:15:44, circ, 48
+4:16:4, circ, 33.3
+4:16:41, topoff, off
+4:16:44, circ, 48
+4:17:4, circ, 33.3
+4:17:44, circ, 48
+4:18:4, circ, 33.3
+4:18:41, topoff, on
+4:18:41, alarm, 1, input closed
+4:18:41, timeout set
+4:18:44, circ, 48
+4:19:4, circ, 33.3
+4:19:41, topoff, off
+4:19:44, circ, 48
+4:20:4, circ, 33.3
+4:20:44, circ, 48
+4:21:4, circ, 33.3
+4:21:36, diverter, off
+4:21:41, topoff, on
+4:21:41, alarm, 1, input closed
+4:21:41, timeout set
+4:21:44, circ, 48
+4:22:4, circ, 33.3
+4:22:41, topoff, off
+4:22:44, circ, 48
+4:23:4, circ, 33.3
+4:23:44, circ, 48
+4:24:4, circ, 33.3
+4:24:41, topoff, on
+4:24:41, alarm, 1, input closed
+4:24:41, timeout set
+4:24:44, circ, 48
+4:25:4, circ, 33.3
+4:25:41, topoff, off
+4:25:44, circ, 48
+4:26:4, circ, 33.3
+4:26:44, circ, 48
+4:27:4, circ, 33.3
+4:27:41, topoff, on
+4:27:41, alarm, 1, input closed
+4:27:41, timeout set
+4:27:44, circ, 48
+4:28:4, circ, 33.3
+4:28:41, topoff, off
+4:28:44, circ, 48
+4:29:4, circ, 33.3
+4:29:44, circ, 48
+4:30:4, circ, 33.3
+4:30:41, topoff, on
+4:30:41, alarm, 1, input closed
+4:30:41, timeout set
+4:30:44, circ, 48
+4:31:4, circ, 33.3
+4:31:41, topoff, off
+4:31:44, circ, 48
+4:32:4, circ, 33.3
+4:32:44, circ, 48
+4:33:4, circ, 33.3
+4:33:41, topoff, on
+4:33:41, alarm, 1, input closed
+4:33:41, timeout set
+4:33:44, circ, 48
+4:34:4, circ, 33.3
+4:34:41, topoff, off
+4:34:44, circ, 48
+4:35:4, circ, 33.3
+4:35:44, circ, 48
+4:36:4, circ, 33.3
+4:36:41, topoff, on
+4:36:41, alarm, 1, input closed
+4:36:41, timeout set
+4:36:44, circ, 48
+4:37:4, circ, 33.3
+4:37:41, topoff, off
+4:37:44, circ, 48
+4:38:4, circ, 33.3
+4:38:44, circ, 48
+4:39:4, circ, 33.3
+4:39:41, topoff, on
+4:39:41, alarm, 1, input closed
+4:39:41, timeout set
+4:39:44, circ, 48
+4:40:4, circ, 33.3
+4:40:41, topoff, off
+4:40:44, circ, 48
+4:41:4, circ, 33.3
+4:41:44, circ, 48
+4:42:4, circ, 33.3
+4:42:41, topoff, on
+4:42:41, alarm, 1, input closed
+4:42:41, timeout set
+4:42:44, circ, 48
+4:43:4, circ, 33.3
+4:43:41, topoff, off
+4:43:44, circ, 48
+4:44:4, circ, 33.3
+4:44:44, circ, 48
+4:45:4, circ, 33.3
+4:45:41, topoff, on
+4:45:41, alarm, 1, input closed
+4:45:41, timeout set
+4:45:45, circ, 48
+4:46:5, circ, 33.3
+4:46:41, topoff, off
+4:46:45, circ, 48
+4:47:5, circ, 33.3
+4:47:45, circ, 48
+4:48:5, circ, 33.3
+4:48:41, topoff, on
+4:48:41, alarm, 1, input closed
+4:48:41, timeout set
+4:48:45, circ, 48
+4:49:5, circ, 33.3
+4:49:41, topoff, off
+4:49:45, circ, 48
+4:50:5, circ, 33.3
+4:50:45, circ, 48
+4:51:5, circ, 33.3
+4:51:36, diverter, on
+4:51:41, topoff, on
+4:51:41, alarm, 1, input closed
+4:51:41, timeout set
+4:51:45, circ, 48
+4:52:5, circ, 33.3
+4:52:41, topoff, off
+4:52:45, circ, 48
+4:53:5, circ, 33.3
+4:53:45, circ, 48
+4:54:5, circ, 33.3
+4:54:41, topoff, on
+4:54:41, alarm, 1, input closed
+4:54:41, timeout set
+4:54:45, circ, 48
+4:55:5, circ, 33.3
+4:55:41, topoff, off
+4:55:45, circ, 48
+4:56:5, circ, 33.3
+4:56:45, circ, 48
+4:57:5, circ, 33.3
+4:57:41, topoff, on
+4:57:41, alarm, 1, input closed
+4:57:41, timeout set
+4:57:45, circ, 48
+4:58:5, circ, 33.3
+4:58:41, topoff, off
+4:58:45, circ, 48
+4:59:5, circ, 33.3
+4:59:45, circ, 48
+5:0:5, circ, 33.3
+5:0:41, topoff, on
+5:0:41, alarm, 1, input closed
+5:0:41, timeout set
+5:0:45, circ, 48
+5:1:5, circ, 33.3
+5:1:41, topoff, off
+5:1:45, circ, 48
+5:2:5, circ, 33.3
+5:2:45, circ, 48
+5:3:5, circ, 33.3
+5:3:41, topoff, on
+5:3:41, alarm, 1, input closed
+5:3:41, timeout set
+5:3:45, circ, 48
+5:4:5, circ, 33.3
+5:4:41, topoff, off
+5:4:45, circ, 48
+5:5:5, circ, 33.3
+5:5:45, circ, 48
+5:6:5, circ, 33.3
+5:6:41, topoff, on
+5:6:41, alarm, 1, input closed
+5:6:41, timeout set
+5:6:45, circ, 48
+5:7:5, circ, 33.3
+5:7:41, topoff, off
+5:7:45, circ, 48
+5:8:5, circ, 33.3
+5:8:45, circ, 48
+5:9:5, circ, 33.3
+5:9:41, topoff, on
+5:9:41, alarm, 1, input closed
+5:9:41, timeout set
+5:9:45, circ, 48
+5:10:5, circ, 33.3
+5:10:41, topoff, off
+5:10:45, circ, 48
+5:11:5, circ, 33.3
+5:11:45, circ, 48
+5:12:5, circ, 33.3
+5:12:41, topoff, on
+5:12:41, alarm, 1, input closed
+5:12:41, timeout set
+5:12:45, circ, 48
+5:13:5, circ, 33.3
+5:13:41, topoff, off
+5:13:45, circ, 48
+5:14:5, circ, 33.3
+5:14:45, circ, 48
+5:15:5, circ, 33.3
+5:15:41, topoff, on
+5:15:41, alarm, 1, input closed
+5:15:41, timeout set
+5:15:45, circ, 48
+5:16:5, circ, 33.3
+5:16:41, topoff, off
+5:16:45, circ, 48
+5:17:5, circ, 33.3
+5:17:45, circ, 48
+5:18:5, circ, 33.3
+5:18:41, topoff, on
+5:18:41, alarm, 1, input closed
+5:18:41, timeout set
+5:18:45, circ, 48
+5:19:5, circ, 33.3
+5:19:41, topoff, off
+5:19:45, circ, 48
+5:20:5, circ, 33.3
+5:20:46, circ, 48
+5:21:6, circ, 33.3
+5:21:36, sumpcirc, right, off
+5:21:36, sumpcirc, left, on
+5:21:36, diverter, off
+5:21:41, topoff, on
+5:21:41, alarm, 1, input closed
+5:21:41, timeout set
+5:21:46, circ, 48
+5:22:6, circ, 33.3
+5:22:41, topoff, off
+5:22:46, circ, 48
+5:23:6, circ, 33.3
+5:23:46, circ, 48
+5:24:6, circ, 33.3
+5:24:41, topoff, on
+5:24:41, alarm, 1, input closed
+5:24:41, timeout set
+5:24:46, circ, 48
+5:25:6, circ, 33.3
+5:25:41, topoff, off
+5:25:46, circ, 48
+5:26:6, circ, 33.3
+5:26:46, circ, 48
+5:27:6, circ, 33.3
+5:27:41, topoff, on
+5:27:41, alarm, 1, input closed
+5:27:41, timeout set
+5:27:46, circ, 48
+5:28:6, circ, 33.3
+5:28:41, topoff, off
+5:28:46, circ, 48
+5:29:6, circ, 33.3
+5:29:46, circ, 48
+5:30:6, circ, 33.3
+5:30:41, topoff, on
+5:30:41, alarm, 1, input closed
+5:30:41, timeout set
+5:30:46, circ, 48
+5:31:6, circ, 33.3
+5:31:41, topoff, off
+5:31:46, circ, 48
+5:32:6, circ, 33.3
+5:32:46, circ, 48
+5:33:6, circ, 33.3
+5:33:41, topoff, on
+5:33:41, alarm, 1, input closed
+5:33:41, timeout set
+5:33:46, circ, 48
+5:34:6, circ, 33.3
+5:34:41, topoff, off
+5:34:46, circ, 48
+5:35:6, circ, 33.3
+5:35:46, circ, 48
+5:36:6, circ, 33.3
+5:36:41, topoff, on
+5:36:41, alarm, 1, input closed
+5:36:41, timeout set
+5:36:46, circ, 48
+5:37:6, circ, 33.3
+5:37:41, topoff, off
+5:37:46, circ, 48
+5:38:6, circ, 33.3
+5:38:46, circ, 48
+5:39:6, circ, 33.3
+5:39:41, topoff, on
+5:39:41, alarm, 1, input closed
+5:39:41, timeout set
+5:39:46, circ, 48
+5:40:6, circ, 33.3
+5:40:41, topoff, off
+5:40:46, circ, 48
+5:41:6, circ, 33.3
+5:41:46, circ, 48
+5:42:6, circ, 33.3
+5:42:41, topoff, on
+5:42:41, alarm, 1, input closed
+5:42:41, timeout set
+5:42:46, circ, 48
+5:43:6, circ, 33.3
+5:43:41, topoff, off
+5:43:46, circ, 48
+5:44:6, circ, 33.3
+5:44:46, circ, 48
+5:45:6, circ, 33.3
+5:45:41, topoff, on
+5:45:41, alarm, 1, input closed
+5:45:41, timeout set
+5:45:46, circ, 48
+5:46:6, circ, 33.3
+5:46:41, topoff, off
+5:46:46, circ, 48
+5:47:6, circ, 33.3
+5:47:46, circ, 48
+5:48:6, circ, 33.3
+5:48:41, topoff, on
+5:48:41, alarm, 1, input closed
+5:48:41, timeout set
+5:48:46, circ, 48
+5:49:6, circ, 33.3
+5:49:41, topoff, off
+5:49:46, circ, 48
+5:50:6, circ, 33.3
+5:50:46, circ, 48
+5:51:6, circ, 33.3
+5:51:36, diverter, on
+5:51:41, topoff, on
+5:51:41, alarm, 1, input closed
+5:51:41, timeout set
+5:51:46, circ, 48
+5:52:6, circ, 33.3
+5:52:41, topoff, off
+5:52:46, circ, 48
+5:53:6, circ, 33.3
+5:53:46, circ, 48
+5:54:6, circ, 33.3
+5:54:41, topoff, on
+5:54:41, alarm, 1, input closed
+5:54:41, timeout set
+5:54:46, circ, 48
+5:55:7, circ, 33.3
+5:55:41, topoff, off
+5:55:47, circ, 48
+5:56:7, circ, 33.3
+5:56:47, circ, 48
+5:57:7, circ, 33.3
+5:57:41, topoff, on
+5:57:41, alarm, 1, input closed
+5:57:41, timeout set
+5:57:47, circ, 48
+5:58:7, circ, 33.3
+5:58:41, topoff, off
+5:58:47, circ, 48
+5:59:7, circ, 33.3
+5:59:47, circ, 48
+6:0:7, circ, 33.3
+6:0:41, topoff, on
+6:0:41, alarm, 1, input closed
+6:0:41, timeout set
+6:0:47, circ, 48
+6:1:7, circ, 33.3
+6:1:41, topoff, off
+6:1:47, circ, 48
+6:2:7, circ, 33.3
+6:2:47, circ, 48
+6:3:7, circ, 33.3
+6:3:41, topoff, on
+6:3:41, alarm, 1, input closed
+6:3:41, timeout set
+6:3:47, circ, 48
+6:4:7, circ, 33.3
+6:4:41, topoff, off
+6:4:47, circ, 48
+6:5:7, circ, 33.3
+6:5:47, circ, 48
+6:6:7, circ, 33.3
+6:6:41, topoff, on
+6:6:41, alarm, 1, input closed
+6:6:41, timeout set
+6:6:47, circ, 48
+6:7:7, circ, 33.3
+6:7:41, topoff, off
+6:7:47, circ, 48
+6:8:7, circ, 33.3
+6:8:47, circ, 48
+6:9:7, circ, 33.3
+6:9:41, topoff, on
+6:9:41, alarm, 1, input closed
+6:9:41, timeout set
+6:9:47, circ, 48
+6:10:7, circ, 33.3
+6:10:42, topoff, off
+6:10:47, circ, 48
+6:11:7, circ, 33.3
+6:11:47, circ, 48
+6:12:7, circ, 33.3
+6:12:42, topoff, on
+6:12:42, alarm, 1, input closed
+6:12:42, timeout set
+6:12:47, circ, 48
+6:13:7, circ, 33.3
+6:13:42, topoff, off
+6:13:47, circ, 48
+6:14:7, circ, 33.3
+6:14:47, circ, 48
+6:15:7, circ, 33.3
+6:15:42, topoff, on
+6:15:42, alarm, 1, input closed
+6:15:42, timeout set
+6:15:47, circ, 48
+6:16:7, circ, 33.3
+6:16:42, topoff, off
+6:16:47, circ, 48
+6:17:7, circ, 33.3
+6:17:47, circ, 48
+6:18:7, circ, 33.3
+6:18:42, topoff, on
+6:18:42, alarm, 1, input closed
+6:18:42, timeout set
+6:18:47, circ, 48
+6:19:7, circ, 33.3
+6:19:42, topoff, off
+6:19:47, circ, 48
+6:20:7, circ, 33.3
+6:20:47, circ, 48
+6:21:7, circ, 33.3
+6:21:36, diverter, off
+6:21:42, topoff, on
+6:21:42, alarm, 1, input closed
+6:21:42, timeout set
+6:21:47, circ, 48
+6:22:7, circ, 33.3
+6:22:42, topoff, off
+6:22:47, circ, 48
+6:23:7, circ, 33.3
+6:23:47, circ, 48
+6:24:7, circ, 33.3
+6:24:42, topoff, on
+6:24:42, alarm, 1, input closed
+6:24:42, timeout set
+6:24:47, circ, 48
+6:25:7, circ, 33.3
+6:25:42, topoff, off
+6:25:47, circ, 48
+6:26:7, circ, 33.3
+6:26:47, circ, 48
+6:27:7, circ, 33.3
+6:27:42, topoff, on
+6:27:42, alarm, 1, input closed
+6:27:42, timeout set
+6:27:47, circ, 48
+6:28:7, circ, 33.3
+6:28:42, topoff, off
+6:28:47, circ, 48
+6:29:8, circ, 33.3
+6:29:48, circ, 48
+6:30:8, circ, 33.3
+6:30:42, topoff, on
+6:30:42, alarm, 1, input closed
+6:30:42, timeout set
+6:30:48, circ, 48
+6:31:8, circ, 33.3
+6:31:42, topoff, off
+6:31:48, circ, 48
+6:32:8, circ, 33.3
+6:32:48, circ, 48
+6:33:8, circ, 33.3
+6:33:42, topoff, on
+6:33:42, alarm, 1, input closed
+6:33:42, timeout set
+6:33:48, circ, 48
+6:34:8, circ, 33.3
+6:34:42, topoff, off
+6:34:48, circ, 48
+6:35:8, circ, 33.3
+6:35:48, circ, 48
+6:36:8, circ, 33.3
+6:36:42, topoff, on
+6:36:42, alarm, 1, input closed
+6:36:42, timeout set
+6:36:48, circ, 48
+6:37:8, circ, 33.3
+6:37:42, topoff, off
+6:37:48, circ, 48
+6:38:8, circ, 33.3
+6:38:48, circ, 48
+6:39:8, circ, 33.3
+6:39:42, topoff, on
+6:39:42, alarm, 1, input closed
+6:39:42, timeout set
+6:39:48, circ, 48
+6:40:8, circ, 33.3
+6:40:42, topoff, off
+6:40:48, circ, 48
+6:41:8, circ, 33.3
+6:41:48, circ, 48
+6:42:8, circ, 33.3
+6:42:42, topoff, on
+6:42:42, alarm, 1, input closed
+6:42:42, timeout set
+6:42:48, circ, 48
+6:43:8, circ, 33.3
+6:43:42, topoff, off
+6:43:48, circ, 48
+6:44:8, circ, 33.3
+6:44:48, circ, 48
+6:45:8, circ, 33.3
+6:45:42, topoff, on
+6:45:42, alarm, 1, input closed
+6:45:42, timeout set
+6:45:48, circ, 48
+6:46:8, circ, 33.3
+6:46:42, topoff, off
+6:46:48, circ, 48
+6:47:8, circ, 33.3
+6:47:48, circ, 48
+6:48:8, circ, 33.3
+6:48:42, topoff, on
+6:48:42, alarm, 1, input closed
+6:48:42, timeout set
+6:48:48, circ, 48
+6:49:8, circ, 33.3
+6:49:42, topoff, off
+6:49:48, circ, 48
+6:50:8, circ, 33.3
+6:50:48, circ, 48
+6:51:8, circ, 33.3
+6:51:36, diverter, on
+6:51:42, topoff, on
+6:51:42, alarm, 1, input closed
+6:51:42, timeout set
+6:51:48, circ, 48
+6:52:8, circ, 33.3
+6:52:42, topoff, off
+6:52:48, circ, 48
+6:53:8, circ, 33.3
+6:53:48, circ, 48
+6:54:8, circ, 33.3
+6:54:42, topoff, on
+6:54:42, alarm, 1, input closed
+6:54:42, timeout set
+6:54:48, circ, 48
+6:55:8, circ, 33.3
+6:55:42, topoff, off
+6:55:48, circ, 48
+6:56:8, circ, 33.3
+6:56:48, circ, 48
+6:57:8, circ, 33.3
+6:57:42, topoff, on
+6:57:42, alarm, 1, input closed
+6:57:42, timeout set
+6:57:48, circ, 48
+6:58:8, circ, 33.3
+6:58:42, topoff, off
+6:58:48, circ, 48
+6:59:8, circ, 33.3
+6:59:48, circ, 48
+7:0:8, circ, 33.3
+7:0:37, sumplight, 0
+7:0:42, topoff, on
+7:0:42, alarm, 1, input closed
+7:0:42, timeout set
+7:0:48, circ, 48
+7:1:8, circ, 33.3
+7:1:42, topoff, off
+7:1:48, circ, 48
+7:2:8, circ, 33.3
+7:2:48, circ, 48
+7:3:8, circ, 33.3
+7:3:42, topoff, on
+7:3:42, alarm, 1, input closed
+7:3:42, timeout set
+7:3:49, circ, 48
+7:4:9, circ, 33.3
+7:4:42, topoff, off
+7:4:49, circ, 48
+7:5:9, circ, 33.3
+7:5:49, circ, 48
+7:6:9, circ, 33.3
+7:6:42, topoff, on
+7:6:42, alarm, 1, input closed
+7:6:42, timeout set
+7:6:49, circ, 48
+7:7:9, circ, 33.3
+7:7:42, topoff, off
+7:7:49, circ, 48
+7:8:9, circ, 33.3
+7:8:49, circ, 48
+7:9:9, circ, 33.3
+7:9:42, topoff, on
+7:9:42, alarm, 1, input closed
+7:9:42, timeout set
+7:9:49, circ, 48
+7:10:9, circ, 33.3
+7:10:42, topoff, off
+7:10:49, circ, 48
+7:11:9, circ, 33.3
+7:11:49, circ, 48
+7:12:9, circ, 33.3
+7:12:42, topoff, on
+7:12:42, alarm, 1, input closed
+7:12:42, timeout set
+7:12:49, circ, 48
+7:13:9, circ, 33.3
+7:13:42, topoff, off
+7:13:49, circ, 48
+7:14:9, circ, 33.3
+7:14:49, circ, 48
+7:15:9, circ, 33.3
+7:15:42, topoff, on
+7:15:42, alarm, 1, input closed
+7:15:42, timeout set
+7:15:49, circ, 48
+7:16:9, circ, 33.3
+7:16:42, topoff, off
+7:16:49, circ, 48
+7:17:9, circ, 33.3
+7:17:49, circ, 48
+7:18:9, circ, 33.3
+7:18:42, topoff, on
+7:18:42, alarm, 1, input closed
+7:18:42, timeout set
+7:18:49, circ, 48
+7:19:9, circ, 33.3
+7:19:42, topoff, off
+7:19:49, circ, 48
+7:20:9, circ, 33.3
+7:20:49, circ, 48
+7:21:9, circ, 33.3
+7:21:36, diverter, off
+7:21:42, topoff, on
+7:21:42, alarm, 1, input closed
+7:21:42, timeout set
+7:21:49, circ, 48
+7:22:9, circ, 33.3
+7:22:42, topoff, off
+7:22:49, circ, 48
+7:23:9, circ, 33.3
+7:23:49, circ, 48
+7:24:9, circ, 33.3
+7:24:42, topoff, on
+7:24:42, alarm, 1, input closed
+7:24:42, timeout set
+7:24:49, circ, 48
+7:25:9, circ, 33.3
+7:25:42, topoff, off
+7:25:49, circ, 48
+7:26:9, circ, 33.3
+7:26:49, circ, 48
+7:27:9, circ, 33.3
+7:27:42, topoff, on
+7:27:42, alarm, 1, input closed
+7:27:42, timeout set
+7:27:49, circ, 48
+7:28:9, circ, 33.3
+7:28:42, topoff, off
+7:28:49, circ, 48
+7:29:9, circ, 33.3
+7:29:49, circ, 48
+7:30:9, circ, 33.3
+7:30:42, topoff, on
+7:30:42, alarm, 1, input closed
+7:30:42, timeout set
+7:30:49, circ, 48
+7:31:9, circ, 33.3
+7:31:42, topoff, off
+7:31:49, circ, 48
+7:32:9, circ, 33.3
+7:32:49, circ, 48
+7:33:9, circ, 33.3
+7:33:42, topoff, on
+7:33:42, alarm, 1, input closed
+7:33:42, timeout set
+7:33:49, circ, 48
+7:34:9, circ, 33.3
+7:34:42, topoff, off
+7:34:49, circ, 48
+7:35:9, circ, 33.3
+7:35:49, circ, 48
+7:36:9, circ, 33.3
+7:36:42, topoff, on
+7:36:42, alarm, 1, input closed
+7:36:42, timeout set
+7:36:49, circ, 48
+7:37:9, circ, 33.3
+7:37:42, topoff, off
+7:37:49, circ, 48
+7:38:9, circ, 33.3
+7:38:50, circ, 48
+7:39:10, circ, 33.3
+7:39:42, topoff, on
+7:39:42, alarm, 1, input closed
+7:39:42, timeout set
+7:39:50, circ, 48
+7:40:10, circ, 33.3
+7:40:42, topoff, off
+7:40:50, circ, 48
+7:41:10, circ, 33.3
+7:41:50, circ, 48
+7:42:10, circ, 33.3
+7:42:42, topoff, on
+7:42:42, alarm, 1, input closed
+7:42:42, timeout set
+7:42:50, circ, 48
+7:43:10, circ, 33.3
+7:43:42, topoff, off
+7:43:50, circ, 48
+7:44:10, circ, 33.3
+7:44:50, circ, 48
+7:45:10, circ, 33.3
+7:45:42, topoff, on
+7:45:42, alarm, 1, input closed
+7:45:42, timeout set
+7:45:50, circ, 48
+7:46:10, circ, 33.3
+7:46:42, topoff, off
+7:46:50, circ, 48
+7:47:10, circ, 33.3
+7:47:50, circ, 48
+7:48:10, circ, 33.3
+7:48:42, topoff, on
+7:48:42, alarm, 1, input closed
+7:48:42, timeout set
+7:48:50, circ, 48
+7:49:10, circ, 33.3
+7:49:42, topoff, off
+7:49:50, circ, 48
+7:50:10, circ, 33.3
+7:50:50, circ, 48
+7:51:10, circ, 33.3
+7:51:36, diverter, on
+7:51:42, topoff, on
+7:51:42, alarm, 1, input closed
+7:51:42, timeout set
+7:51:50, circ, 48
+7:52:10, circ, 33.3
+7:52:42, topoff, off
+7:52:50, circ, 48
+7:53:10, circ, 33.3
+7:53:50, circ, 48
+7:54:10, circ, 33.3
+7:54:42, topoff, on
+7:54:42, alarm, 1, input closed
+7:54:42, timeout set
+7:54:50, circ, 48
+7:55:10, circ, 33.3
+7:55:42, topoff, off
+7:55:50, circ, 48
+7:56:10, circ, 33.3
+7:56:50, circ, 48
+7:57:10, circ, 33.3
+7:57:42, topoff, on
+7:57:42, alarm, 1, input closed
+7:57:42, timeout set
+7:57:50, circ, 48
+7:58:10, circ, 33.3
+7:58:42, topoff, off
+7:58:50, circ, 48
+7:59:10, circ, 33.3
+7:59:50, circ, 48
+8:0:10, circ, 33.3
+8:0:42, topoff, on
+8:0:42, alarm, 1, input closed
+8:0:42, timeout set
+8:0:50, circ, 48
+8:1:10, circ, 33.3
+8:1:42, topoff, off
+8:1:50, circ, 48
+8:2:10, circ, 33.3
+8:2:50, circ, 48
+8:3:10, circ, 33.3
+8:3:42, topoff, on
+8:3:42, alarm, 1, input closed
+8:3:42, timeout set
+8:3:50, circ, 48
+8:4:10, circ, 33.3
+8:4:42, topoff, off
+8:4:50, circ, 48
+8:5:10, circ, 33.3
+8:5:50, circ, 48
+8:6:10, circ, 33.3
+8:6:42, topoff, on
+8:6:42, alarm, 1, input closed
+8:6:42, timeout set
+8:6:50, circ, 48
+8:7:10, circ, 33.3
+8:7:42, topoff, off
+8:7:50, circ, 48
+8:8:10, circ, 33.3
+8:8:50, circ, 48
+8:9:10, circ, 33.3
+8:9:42, topoff, on
+8:9:42, alarm, 1, input closed
+8:9:42, timeout set
+8:9:50, circ, 48
+8:10:10, circ, 33.3
+8:10:42, topoff, off
+8:10:50, circ, 48
+8:11:10, circ, 33.3
+8:11:50, circ, 48
+8:12:10, circ, 33.3
+8:12:42, topoff, on
+8:12:42, alarm, 1, input closed
+8:12:42, timeout set
+8:12:50, circ, 48
+8:13:10, circ, 33.3
+8:13:42, topoff, off
+8:13:51, circ, 48
+8:14:11, circ, 33.3
+8:14:51, circ, 48
+8:15:11, circ, 33.3
+8:15:42, topoff, on
+8:15:42, alarm, 1, input closed
+8:15:42, timeout set
+8:15:51, circ, 48
+8:16:11, circ, 33.3
+8:16:42, topoff, off
+8:16:51, circ, 48
+8:17:11, circ, 33.3
+8:17:51, circ, 48
+8:18:11, circ, 33.3
+8:18:42, topoff, on
+8:18:42, alarm, 1, input closed
+8:18:42, timeout set
+8:18:51, circ, 48
+8:19:11, circ, 33.3
+8:19:42, topoff, off
+8:19:51, circ, 48
+8:20:11, circ, 33.3
+8:20:51, circ, 48
+8:21:11, circ, 33.3
+8:21:36, sumpcirc, left, off
+8:21:36, sumpcirc, right, on
+8:21:36, diverter, off
+8:21:42, topoff, on
+8:21:42, alarm, 1, input closed
+8:21:42, timeout set
+8:21:51, circ, 48
+8:22:11, circ, 33.3
+8:22:42, topoff, off
+8:22:51, circ, 48
+8:23:11, circ, 33.3
+8:23:51, circ, 48
+8:24:11, circ, 33.3
+8:24:42, topoff, on
+8:24:42, alarm, 1, input closed
+8:24:42, timeout set
+8:24:51, circ, 48
+8:25:11, circ, 33.3
+8:25:42, topoff, off
+8:25:51, circ, 48
+8:26:11, circ, 33.3
+8:26:51, circ, 48
+8:27:11, circ, 33.3
+8:27:42, topoff, on
+8:27:42, alarm, 1, input closed
+8:27:42, timeout set
+8:27:51, circ, 48
+8:28:11, circ, 33.3
+8:28:42, topoff, off
+8:28:51, circ, 48
+8:29:11, circ, 33.3
+8:29:51, circ, 48
+8:30:11, circ, 33.3
+8:30:42, topoff, on
+8:30:42, alarm, 1, input closed
+8:30:42, timeout set
+8:30:51, circ, 48
+8:31:11, circ, 33.3
+8:31:42, topoff, off
+8:31:51, circ, 48
+8:32:11, circ, 33.3
+8:32:51, circ, 48
+8:33:11, circ, 33.3
+8:33:42, topoff, on
+8:33:42, alarm, 1, input closed
+8:33:42, timeout set
+8:33:51, circ, 48
+8:34:11, circ, 33.3
+8:34:42, topoff, off
+8:34:51, circ, 48
+8:35:11, circ, 33.3
+8:35:51, circ, 48
+8:36:11, circ, 33.3
+8:36:42, topoff, on
+8:36:42, alarm, 1, input closed
+8:36:42, timeout set
+8:36:51, circ, 48
+8:37:11, circ, 33.3
+8:37:42, topoff, off
+8:37:51, circ, 48
+8:38:11, circ, 33.3
+8:38:51, circ, 48
+8:39:11, circ, 33.3
+8:39:42, topoff, on
+8:39:42, alarm, 1, input closed
+8:39:42, timeout set
+8:39:51, circ, 48
+8:40:11, circ, 33.3
+8:40:42, topoff, off
+8:40:51, circ, 48
+8:41:11, circ, 33.3
+8:41:51, circ, 48
+8:42:11, circ, 33.3
+8:42:42, topoff, on
+8:42:42, alarm, 1, input closed
+8:42:42, timeout set
+8:42:51, circ, 48
+8:43:11, circ, 33.3
+8:43:42, topoff, off
+8:43:51, circ, 48
+8:44:11, circ, 33.3
+8:44:51, circ, 48
+8:45:11, circ, 33.3
+8:45:42, topoff, on
+8:45:42, alarm, 1, input closed
+8:45:42, timeout set
+8:45:51, circ, 48
+8:46:11, circ, 33.3
+8:46:42, topoff, off
+8:46:51, circ, 48
+8:47:11, circ, 33.3
+8:47:51, circ, 48
+8:48:12, circ, 33.3
+8:48:42, topoff, on
+8:48:42, alarm, 1, input closed
+8:48:42, timeout set
+8:48:52, circ, 48
+8:49:12, circ, 33.3
+8:49:42, topoff, off
+8:49:52, circ, 48
+8:50:12, circ, 33.3
+8:50:52, circ, 48
+8:51:12, circ, 33.3
+8:51:36, diverter, on
+8:51:42, topoff, on
+8:51:42, alarm, 1, input closed
+8:51:42, timeout set
+8:51:52, circ, 48
+8:52:12, circ, 33.3
+8:52:42, topoff, off
+8:52:52, circ, 48
+8:53:12, circ, 33.3
+8:53:52, circ, 48
+8:54:12, circ, 33.3
+8:54:42, topoff, on
+8:54:42, alarm, 1, input closed
+8:54:42, timeout set
+8:54:52, circ, 48
+8:55:12, circ, 33.3
+8:55:42, topoff, off
+8:55:52, circ, 48
+8:56:12, circ, 33.3
+8:56:52, circ, 48
+8:57:12, circ, 33.3
+8:57:42, topoff, on
+8:57:42, alarm, 1, input closed
+8:57:42, timeout set
+8:57:52, circ, 48
+8:58:12, circ, 33.3
+8:58:42, topoff, off
+8:58:52, circ, 48
+8:59:12, circ, 33.3
+8:59:52, circ, 48
+9:0:12, circ, 33.3
+9:0:42, topoff, on
+9:0:42, alarm, 1, input closed
+9:0:42, timeout set
+9:0:52, circ, 48
+9:1:12, circ, 33.3
+9:1:42, topoff, off
+9:1:52, circ, 48
+9:2:12, circ, 33.3
+9:2:52, circ, 48
+9:3:12, circ, 33.3
+9:3:42, topoff, on
+9:3:42, alarm, 1, input closed
+9:3:42, timeout set
+9:3:52, circ, 48
+9:4:12, circ, 33.3
+9:4:42, topoff, off
+9:4:52, circ, 48
+9:5:12, circ, 33.3
+9:5:52, circ, 48
+9:6:12, circ, 33.3
+9:6:42, topoff, on
+9:6:42, alarm, 1, input closed
+9:6:42, timeout set
+9:6:52, circ, 48
+9:7:12, circ, 33.3
+9:7:42, topoff, off
+9:7:52, circ, 48
+9:8:12, circ, 33.3
+9:8:52, circ, 48
+9:9:12, circ, 33.3
+9:9:42, topoff, on
+9:9:42, alarm, 1, input closed
+9:9:42, timeout set
+9:9:52, circ, 48
+9:10:12, circ, 33.3
+9:10:42, topoff, off
+9:10:52, circ, 48
+9:11:12, circ, 33.3
+9:11:52, circ, 48
+9:12:12, circ, 33.3
+9:12:42, topoff, on
+9:12:42, alarm, 1, input closed
+9:12:42, timeout set
+9:12:52, circ, 48
+9:13:12, circ, 33.3
+9:13:42, topoff, off
+9:13:52, circ, 48
+9:14:12, circ, 33.3
+9:14:52, circ, 48
+9:15:12, circ, 33.3
+9:15:42, topoff, on
+9:15:42, alarm, 1, input closed
+9:15:42, timeout set
+9:15:52, circ, 48
+9:16:12, circ, 33.3
+9:16:42, topoff, off
+9:16:52, circ, 48
+9:17:12, circ, 33.3
+9:17:52, circ, 48
+9:18:12, circ, 33.3
+9:18:42, topoff, on
+9:18:42, alarm, 1, input closed
+9:18:42, timeout set
+9:18:52, circ, 48
+9:19:12, circ, 33.3
+9:19:42, topoff, off
+9:19:52, circ, 48
+9:20:12, circ, 33.3
+9:20:52, circ, 48
+9:21:12, circ, 33.3
+9:21:36, diverter, off
+9:21:42, topoff, on
+9:21:42, alarm, 1, input closed
+9:21:42, timeout set
+9:21:52, circ, 48
+9:22:13, circ, 33.3
+9:22:42, topoff, off
+9:22:53, circ, 48
+9:23:13, circ, 33.3
+9:23:53, circ, 48
+9:24:13, circ, 33.3
+9:24:42, topoff, on
+9:24:42, alarm, 1, input closed
+9:24:42, timeout set
+9:24:53, circ, 48
+9:25:13, circ, 33.3
+9:25:42, topoff, off
+9:25:53, circ, 48
+9:26:13, circ, 33.3
+9:26:53, circ, 48
+9:27:13, circ, 33.3
+9:27:42, topoff, on
+9:27:42, alarm, 1, input closed
+9:27:42, timeout set
+9:27:53, circ, 48
+9:28:13, circ, 33.3
+9:28:42, topoff, off
+9:28:53, circ, 48
+9:29:13, circ, 33.3
+9:29:53, circ, 48
+9:30:13, circ, 33.3
+9:30:42, topoff, on
+9:30:42, alarm, 1, input closed
+9:30:42, timeout set
+9:30:53, circ, 48
+9:31:13, circ, 33.3
+9:31:42, topoff, off
+9:31:53, circ, 48
+9:32:13, circ, 33.3
+9:32:53, circ, 48
+9:33:13, circ, 33.3
+9:33:42, topoff, on
+9:33:42, alarm, 1, input closed
+9:33:42, timeout set
+9:33:53, circ, 48
+9:34:13, circ, 33.3
+9:34:42, topoff, off
+9:34:53, circ, 48
+9:35:13, circ, 33.3
+9:35:53, circ, 48
+9:36:13, circ, 33.3
+9:36:42, topoff, on
+9:36:42, alarm, 1, input closed
+9:36:42, timeout set
+9:36:53, circ, 48
+9:37:13, circ, 33.3
+9:37:42, topoff, off
+9:37:53, circ, 48
+9:38:13, circ, 33.3
+9:38:53, circ, 48
+9:39:13, circ, 33.3
+9:39:42, topoff, on
+9:39:42, alarm, 1, input closed
+9:39:42, timeout set
+9:39:53, circ, 48
+9:40:13, circ, 33.3
+9:40:42, topoff, off
+9:40:53, circ, 48
+9:41:13, circ, 33.3
+9:41:53, circ, 48
+9:42:13, circ, 33.3
+9:42:42, topoff, on
+9:42:42, alarm, 1, input closed
+9:42:42, timeout set
+9:42:53, circ, 48
+9:43:13, circ, 33.3
+9:43:42, topoff, off
+9:43:53, circ, 48
+9:44:13, circ, 33.3
+9:44:53, circ, 48
+9:45:13, circ, 33.3
+9:45:42, topoff, on
+9:45:42, alarm, 1, input closed
+9:45:42, timeout set
+9:45:53, circ, 48
+9:46:13, circ, 33.3
+9:46:42, topoff, off
+9:46:53, circ, 48
+9:47:13, circ, 33.3
+9:47:53, circ, 48
+9:48:13, circ, 33.3
+9:48:42, topoff, on
+9:48:42, alarm, 1, input closed
+9:48:42, timeout set
+9:48:53, circ, 48
+9:49:13, circ, 33.3
+9:49:42, topoff, off
+9:49:53, circ, 48
+9:50:13, circ, 33.3
+9:50:53, circ, 48
+9:51:13, circ, 33.3
+9:51:36, diverter, on
+9:51:42, topoff, on
+9:51:42, alarm, 1, input closed
+9:51:42, timeout set
+9:51:53, circ, 48
+9:52:13, circ, 33.3
+9:52:42, topoff, off
+9:52:53, circ, 48
+9:53:13, circ, 33.3
+9:53:53, circ, 48
+9:54:13, circ, 33.3
+9:54:42, topoff, on
+9:54:42, alarm, 1, input closed
+9:54:42, timeout set
+9:54:53, circ, 48
+9:55:13, circ, 33.3
+9:55:42, topoff, off
+9:55:54, circ, 48
+9:56:14, circ, 33.3
+9:56:54, circ, 48
+9:57:14, circ, 33.3
+9:57:42, topoff, on
+9:57:42, alarm, 1, input closed
+9:57:42, timeout set
+9:57:54, circ, 48
+9:58:14, circ, 33.3
+9:58:42, topoff, off
+9:58:54, circ, 48
+9:59:14, circ, 33.3
+9:59:54, circ, 48
+10:0:14, circ, 33.3
+10:0:42, topoff, on
+10:0:42, alarm, 1, input closed
+10:0:42, timeout set
+10:0:54, circ, 48
+10:1:14, circ, 33.3
+10:1:42, topoff, off
+10:1:54, circ, 48
+10:2:14, circ, 33.3
+10:2:54, circ, 48
+10:3:14, circ, 33.3
+10:3:42, topoff, on
+10:3:42, alarm, 1, input closed
+10:3:42, timeout set
+10:3:54, circ, 48
+10:4:14, circ, 33.3
+10:4:42, topoff, off
+10:4:54, circ, 48
+10:5:14, circ, 33.3
+10:5:54, circ, 48
+10:6:14, circ, 33.3
+10:6:42, topoff, on
+10:6:42, alarm, 1, input closed
+10:6:42, timeout set
+10:6:54, circ, 48
+10:7:14, circ, 33.3
+10:7:42, topoff, off
+10:7:54, circ, 48
+10:8:14, circ, 33.3
+10:8:54, circ, 48
+10:9:14, circ, 33.3
+10:9:42, topoff, on
+10:9:42, alarm, 1, input closed
+10:9:42, timeout set
+10:9:54, circ, 48
+10:10:14, circ, 33.3
+10:10:42, topoff, off
+10:10:54, circ, 48
+10:11:14, circ, 33.3
+10:11:54, circ, 48
+10:12:14, circ, 33.3
+10:12:42, topoff, on
+10:12:42, alarm, 1, input closed
+10:12:42, timeout set
+10:12:54, circ, 48
+10:13:14, circ, 33.3
+10:13:42, topoff, off
+10:13:54, circ, 48
+10:14:14, circ, 33.3
+10:14:54, circ, 48
+10:15:14, circ, 33.3
+10:15:42, topoff, on
+10:15:42, alarm, 1, input closed
+10:15:42, timeout set
+10:15:54, circ, 48
+10:16:14, circ, 33.3
+10:16:42, topoff, off
+10:16:54, circ, 48
+10:17:14, circ, 33.3
+10:17:54, circ, 48
+10:18:14, circ, 33.3
+10:18:42, topoff, on
+10:18:42, alarm, 1, input closed
+10:18:42, timeout set
+10:18:54, circ, 48
+10:19:14, circ, 33.3
+10:19:42, topoff, off
+10:19:54, circ, 48
+10:20:14, circ, 33.3
+10:20:54, circ, 48
+10:21:14, circ, 33.3
+10:21:36, diverter, off
+10:21:42, topoff, on
+10:21:42, alarm, 1, input closed
+10:21:42, timeout set
+10:21:54, circ, 48
+10:22:14, circ, 33.3
+10:22:42, topoff, off
+10:22:54, circ, 48
+10:23:14, circ, 33.3
+10:23:54, circ, 48
+10:24:14, circ, 33.3
+10:24:42, topoff, on
+10:24:42, alarm, 1, input closed
+10:24:42, timeout set
+10:24:54, circ, 48
+10:25:14, circ, 33.3
+10:25:42, topoff, off
+10:25:54, circ, 48
+10:26:14, circ, 33.3
+10:26:54, circ, 48
+10:27:14, circ, 33.3
+10:27:42, topoff, on
+10:27:42, alarm, 1, input closed
+10:27:42, timeout set
+10:27:54, circ, 48
+10:28:14, circ, 33.3
+10:28:42, topoff, off
+10:28:55, circ, 48
+10:29:15, circ, 33.3
+10:29:55, circ, 48
+10:30:15, circ, 33.3
+10:30:42, topoff, on
+10:30:42, alarm, 1, input closed
+10:30:42, timeout set
+10:30:55, circ, 48
+10:31:15, circ, 33.3
+10:31:42, topoff, off
+10:31:55, circ, 48
+10:32:15, circ, 33.3
+10:32:55, circ, 48
+10:33:15, circ, 33.3
+10:33:42, topoff, on
+10:33:42, alarm, 1, input closed
+10:33:42, timeout set
+10:33:55, circ, 48
+10:34:15, circ, 33.3
+10:34:42, topoff, off
+10:34:55, circ, 48
+10:35:15, circ, 33.3
+10:35:55, circ, 48
+10:36:15, circ, 33.3
+10:36:42, topoff, on
+10:36:42, alarm, 1, input closed
+10:36:42, timeout set
+10:36:55, circ, 48
+10:37:15, circ, 33.3
+10:37:42, topoff, off
+10:37:55, circ, 48
+10:38:15, circ, 33.3
+10:38:55, circ, 48
+10:39:15, circ, 33.3
+10:39:42, topoff, on
+10:39:42, alarm, 1, input closed
+10:39:43, timeout set
+10:39:55, circ, 48
+10:40:15, circ, 33.3
+10:40:43, topoff, off
+10:40:55, circ, 48
+10:41:15, circ, 33.3
+10:41:55, circ, 48
+10:42:15, circ, 33.3
+10:42:43, topoff, on
+10:42:43, alarm, 1, input closed
+10:42:43, timeout set
+10:42:55, circ, 48
+10:43:15, circ, 33.3
+10:43:43, topoff, off
+10:43:55, circ, 48
+10:44:15, circ, 33.3
+10:44:55, circ, 48
+10:45:15, circ, 33.3
+10:45:43, topoff, on
+10:45:43, alarm, 1, input closed
+10:45:43, timeout set
+10:45:55, circ, 48
+10:46:15, circ, 33.3
+10:46:43, topoff, off
+10:46:55, circ, 48
+10:47:15, circ, 33.3
+10:47:55, circ, 48
+10:48:15, circ, 33.3
+10:48:43, topoff, on
+10:48:43, alarm, 1, input closed
+10:48:43, timeout set
+10:48:55, circ, 48
+10:49:15, circ, 33.3
+10:49:43, topoff, off
+10:49:55, circ, 48
+10:50:15, circ, 33.3
+10:50:55, circ, 48
+10:51:15, circ, 33.3
+10:51:36, diverter, on
+10:51:43, topoff, on
+10:51:43, alarm, 1, input closed
+10:51:43, timeout set
+10:51:55, circ, 48
+10:52:15, circ, 33.3
+10:52:43, topoff, off
+10:52:55, circ, 48
+10:53:15, circ, 33.3
+10:53:55, circ, 48
+10:54:15, circ, 33.3
+10:54:43, topoff, on
+10:54:43, alarm, 1, input closed
+10:54:43, timeout set
+10:54:55, circ, 48
+10:55:15, circ, 33.3
+10:55:43, topoff, off
+10:55:55, circ, 48
+10:56:15, circ, 33.3
+10:56:55, circ, 48
+10:57:15, circ, 33.3
+10:57:43, topoff, on
+10:57:43, alarm, 1, input closed
+10:57:43, timeout set
+10:57:55, circ, 48
+10:58:15, circ, 33.3
+10:58:43, topoff, off
+10:58:55, circ, 48
+10:59:15, circ, 33.3
+10:59:55, circ, 48
+11:0:15, circ, 33.3
+11:0:43, topoff, on
+11:0:43, alarm, 1, input closed
+11:0:43, timeout set
+11:0:55, circ, 48
+11:1:16, circ, 33.3
+11:1:43, topoff, off
+11:1:56, circ, 48
+11:2:16, circ, 33.3
+11:2:56, circ, 48
+11:3:16, circ, 33.3
+11:3:43, topoff, on
+11:3:43, alarm, 1, input closed
+11:3:43, timeout set
+11:3:56, circ, 48
+11:4:16, circ, 33.3
+11:4:43, topoff, off
+11:4:56, circ, 48
+11:5:16, circ, 33.3
+11:5:56, circ, 48
+11:6:16, circ, 33.3
+11:6:43, topoff, on
+11:6:43, alarm, 1, input closed
+11:6:43, timeout set
+11:6:56, circ, 48
+11:7:16, circ, 33.3
+11:7:43, topoff, off
+11:7:56, circ, 48
+11:8:16, circ, 33.3
+11:8:56, circ, 48
+11:9:16, circ, 33.3
+11:9:43, topoff, on
+11:9:43, alarm, 1, input closed
+11:9:43, timeout set
+11:9:56, circ, 48
+11:10:16, circ, 33.3
+11:10:43, topoff, off
+11:10:56, circ, 48
+11:11:16, circ, 33.3
+11:11:56, circ, 48
+11:12:16, circ, 33.3
+11:12:43, topoff, on
+11:12:43, alarm, 1, input closed
+11:12:43, timeout set
+11:12:56, circ, 48
+11:13:16, circ, 33.3
+11:13:43, topoff, off
+11:13:56, circ, 48
+11:14:16, circ, 33.3
+11:14:56, circ, 48
+11:15:16, circ, 33.3
+11:15:43, topoff, on
+11:15:43, alarm, 1, input closed
+11:15:43, timeout set
+11:15:56, circ, 48
+11:16:16, circ, 33.3
+11:16:43, topoff, off
+11:16:56, circ, 48
+11:17:16, circ, 33.3
+11:17:56, circ, 48
+11:18:16, circ, 33.3
+11:18:43, topoff, on
+11:18:43, alarm, 1, input closed
+11:18:43, timeout set
+11:18:56, circ, 48
+11:19:16, circ, 33.3
+11:19:43, topoff, off
+11:19:56, circ, 48
+11:20:16, circ, 33.3
+11:20:56, circ, 48
+11:21:16, circ, 33.3
+11:21:36, sumpcirc, right, off
+11:21:36, sumpcirc, left, on
+11:21:36, diverter, off
+11:21:43, topoff, on
+11:21:43, alarm, 1, input closed
+11:21:43, timeout set
+11:21:56, circ, 48
+11:22:16, circ, 33.3
+11:22:43, topoff, off
+11:22:56, circ, 48
+11:23:16, circ, 33.3
+11:23:56, circ, 48
+11:24:16, circ, 33.3
+11:24:43, topoff, on
+11:24:43, alarm, 1, input closed
+11:24:43, timeout set
+11:24:56, circ, 48
+11:25:16, circ, 33.3
+11:25:43, topoff, off
+11:25:56, circ, 48
+11:26:16, circ, 33.3
+11:26:56, circ, 48
+11:27:16, circ, 33.3
+11:27:43, topoff, on
+11:27:43, alarm, 1, input closed
+11:27:43, timeout set
+11:27:56, circ, 48
+11:28:16, circ, 33.3
+11:28:43, topoff, off
+11:28:56, circ, 48
+11:29:16, circ, 33.3
+11:29:56, circ, 48
+11:30:16, circ, 33.3
+11:30:37, tanklight, left, 600
+11:30:37, tanklight, fan, on
+11:30:43, topoff, on
+11:30:43, alarm, 1, input closed
+11:30:43, timeout set
+11:30:56, circ, 48
+11:31:16, circ, 33.3
+11:31:43, topoff, off
+11:31:56, circ, 48
+11:32:17, circ, 33.3
+11:32:57, circ, 48
+11:33:17, circ, 33.3
+11:33:43, topoff, on
+11:33:43, alarm, 1, input closed
+11:33:43, timeout set
+11:33:57, circ, 48
+11:34:17, circ, 33.3
+11:34:43, topoff, off
+11:34:57, circ, 48
+11:35:17, circ, 33.3
+11:35:57, circ, 48
+11:36:17, circ, 33.3
+11:36:43, topoff, on
+11:36:43, alarm, 1, input closed
+11:36:43, timeout set
+11:36:57, circ, 48
+11:37:17, circ, 33.3
+11:37:43, topoff, off
+11:37:57, circ, 48
+11:38:17, circ, 33.3
+11:38:57, circ, 48
+11:39:17, circ, 33.3
+11:39:43, topoff, on
+11:39:43, alarm, 1, input closed
+11:39:43, timeout set
+11:39:57, circ, 48
+11:40:17, circ, 33.3
+11:40:43, topoff, off
+11:40:57, circ, 48
+11:41:17, circ, 33.3
+11:41:57, circ, 48
+11:42:17, circ, 33.3
+11:42:43, topoff, on
+11:42:43, alarm, 1, input closed
+11:42:43, timeout set
+11:42:57, circ, 48
+11:43:17, circ, 33.3
+11:43:43, topoff, off
+11:43:57, circ, 48
+11:44:17, circ, 33.3
+11:44:57, circ, 48
+11:45:17, circ, 33.3
+11:45:37, tanklight, right, 600
+11:45:43, topoff, on
+11:45:43, alarm, 1, input closed
+11:45:43, timeout set
+11:45:57, circ, 48
+11:46:17, circ, 33.3
+11:46:43, topoff, off
+11:46:57, circ, 48
+11:47:17, circ, 33.3
+11:47:57, circ, 48
+11:48:17, circ, 33.3
+11:48:43, topoff, on
+11:48:43, alarm, 1, input closed
+11:48:43, timeout set
+11:48:57, circ, 48
+11:49:17, circ, 33.3
+11:49:43, topoff, off
+11:49:57, circ, 48
+11:50:17, circ, 33.3
+11:50:57, circ, 48
+11:51:17, circ, 33.3
+11:51:36, diverter, on
+11:51:43, topoff, on
+11:51:43, alarm, 1, input closed
+11:51:43, timeout set
+11:51:57, circ, 48
+11:52:17, circ, 33.3
+11:52:43, topoff, off
+11:52:57, circ, 48
+11:53:17, circ, 33.3
+11:53:57, circ, 48
+11:54:17, circ, 33.3
+11:54:43, topoff, on
+11:54:43, alarm, 1, input closed
+11:54:43, timeout set
+11:54:57, circ, 48
+11:55:17, circ, 33.3
+11:55:43, topoff, off
+11:55:57, circ, 48
+11:56:17, circ, 33.3
+11:56:57, circ, 48
+11:57:17, circ, 33.3
+11:57:43, topoff, on
+11:57:43, alarm, 1, input closed
+11:57:43, timeout set
+11:57:57, circ, 48
+11:58:17, circ, 33.3
+11:58:43, topoff, off
+11:58:57, circ, 48
+11:59:17, circ, 33.3
+11:59:57, circ, 48
+12:0:17, circ, 33.3
+12:0:37, tanklight, center, 600
+12:0:43, topoff, on
+12:0:43, alarm, 1, input closed
+12:0:43, timeout set
+12:0:57, circ, 48
+12:1:17, circ, 33.3
+12:1:43, topoff, off
+12:1:57, circ, 48
+12:2:17, circ, 33.3
+12:2:57, circ, 48
+12:3:18, circ, 33.3
+12:3:43, topoff, on
+12:3:43, alarm, 1, input closed
+12:3:43, timeout set
+12:3:58, circ, 48
+12:4:18, circ, 33.3
+12:4:43, topoff, off
+12:4:58, circ, 48
+12:5:18, circ, 33.3
+12:5:58, circ, 48
+12:6:18, circ, 33.3
+12:6:43, topoff, on
+12:6:43, alarm, 1, input closed
+12:6:43, timeout set
+12:6:58, circ, 48
+12:7:18, circ, 33.3
+12:7:43, topoff, off
+12:7:58, circ, 48
+12:8:18, circ, 33.3
+12:8:58, circ, 48
+12:9:18, circ, 33.3
+12:9:43, topoff, on
+12:9:43, alarm, 1, input closed
+12:9:43, timeout set
+12:9:58, circ, 48
+12:10:18, circ, 33.3
+12:10:43, topoff, off
+12:10:58, circ, 48
+12:11:18, circ, 33.3
+12:11:58, circ, 48
+12:12:18, circ, 33.3
+12:12:43, topoff, on
+12:12:43, alarm, 1, input closed
+12:12:43, timeout set
+12:12:58, circ, 48
+12:13:18, circ, 33.3
+12:13:43, topoff, off
+12:13:58, circ, 48
+12:14:18, circ, 33.3
+12:14:58, circ, 48
+12:15:18, circ, 33.3
+12:15:43, topoff, on
+12:15:43, alarm, 1, input closed
+12:15:43, timeout set
+12:15:58, circ, 48
+12:16:18, circ, 33.3
+12:16:43, topoff, off
+12:16:58, circ, 48
+12:17:18, circ, 33.3
+12:17:58, circ, 48
+12:18:18, circ, 33.3
+12:18:43, topoff, on
+12:18:43, alarm, 1, input closed
+12:18:43, timeout set
+12:18:58, circ, 48
+12:19:18, circ, 33.3
+12:19:43, topoff, off
+12:19:58, circ, 48
+12:20:18, circ, 33.3
+12:20:58, circ, 48
+12:21:18, circ, 33.3
+12:21:36, diverter, off
+12:21:43, topoff, on
+12:21:43, alarm, 1, input closed
+12:21:43, timeout set
+12:21:58, circ, 48
+12:22:18, circ, 33.3
+12:22:43, topoff, off
+12:22:58, circ, 48
+12:23:18, circ, 33.3
+12:23:58, circ, 48
+12:24:18, circ, 33.3
+12:24:43, topoff, on
+12:24:43, alarm, 1, input closed
+12:24:43, timeout set
+12:24:58, circ, 48
+12:25:18, circ, 33.3
+12:25:43, topoff, off
+12:25:58, circ, 48
+12:26:18, circ, 33.3
+12:26:58, circ, 48
+12:27:18, circ, 33.3
+12:27:43, topoff, on
+12:27:43, alarm, 1, input closed
+12:27:43, timeout set
+12:27:58, circ, 48
+12:28:18, circ, 33.3
+12:28:43, topoff, off
+12:28:58, circ, 48
+12:29:18, circ, 33.3
+12:29:58, circ, 48
+12:30:18, circ, 33.3
+12:30:43, topoff, on
+12:30:43, alarm, 1, input closed
+12:30:43, timeout set
+12:30:58, circ, 48
+12:31:18, circ, 33.3
+12:31:43, topoff, off
+12:31:58, circ, 48
+12:32:18, circ, 33.3
+12:32:58, circ, 48
+12:33:18, circ, 33.3
+12:33:43, topoff, on
+12:33:43, alarm, 1, input closed
+12:33:43, timeout set
+12:33:58, circ, 48
+12:34:19, circ, 33.3
+12:34:43, topoff, off
+12:34:59, circ, 48
+12:35:19, circ, 33.3
+12:35:59, circ, 48
+12:36:19, circ, 33.3
+12:36:43, topoff, on
+12:36:43, alarm, 1, input closed
+12:36:43, timeout set
+12:36:59, circ, 48
+12:37:19, circ, 33.3
+12:37:43, topoff, off
+12:37:59, circ, 48
+12:38:19, circ, 33.3
+12:38:59, circ, 48
+12:39:19, circ, 33.3
+12:39:43, topoff, on
+12:39:43, alarm, 1, input closed
+12:39:43, timeout set
+12:39:59, circ, 48
+12:40:19, circ, 33.3
+12:40:43, topoff, off
+12:40:59, circ, 48
+12:41:19, circ, 33.3
+12:41:59, circ, 48
+12:42:19, circ, 33.3
+12:42:43, topoff, on
+12:42:43, alarm, 1, input closed
+12:42:43, timeout set
+12:42:59, circ, 48
+12:43:19, circ, 33.3
+12:43:43, topoff, off
+12:43:59, circ, 48
+12:44:19, circ, 33.3
+12:44:59, circ, 48
+12:45:19, circ, 33.3
+12:45:43, topoff, on
+12:45:43, alarm, 1, input closed
+12:45:43, timeout set
+12:45:59, circ, 48
+12:46:19, circ, 33.3
+12:46:43, topoff, off
+12:46:59, circ, 48
+12:47:19, circ, 33.3
+12:47:59, circ, 48
+12:48:19, circ, 33.3
+12:48:43, topoff, on
+12:48:43, alarm, 1, input closed
+12:48:43, timeout set
+12:48:59, circ, 48
+12:49:19, circ, 33.3
+12:49:43, topoff, off
+12:49:59, circ, 48
+12:50:19, circ, 33.3
+12:50:59, circ, 48
+12:51:19, circ, 33.3
+12:51:36, diverter, on
+12:51:43, topoff, on
+12:51:43, alarm, 1, input closed
+12:51:43, timeout set
+12:51:59, circ, 48
+12:52:19, circ, 33.3
+12:52:43, topoff, off
+12:52:59, circ, 48
+12:53:19, circ, 33.3
+12:53:59, circ, 48
+12:54:19, circ, 33.3
+12:54:43, topoff, on
+12:54:43, alarm, 1, input closed
+12:54:43, timeout set
+12:54:59, circ, 48
+12:55:19, circ, 33.3
+12:55:43, topoff, off
+12:55:59, circ, 48
+12:56:19, circ, 33.3
+12:56:59, circ, 48
+12:57:19, circ, 33.3
+12:57:43, topoff, on
+12:57:43, alarm, 1, input closed
+12:57:43, timeout set
+12:57:59, circ, 48
+12:58:19, circ, 33.3
+12:58:43, topoff, off
+12:58:59, circ, 48
+12:59:19, circ, 33.3
+12:59:59, circ, 48
+13:0:19, circ, 33.3
+13:0:43, topoff, on
+13:0:43, alarm, 1, input closed
+13:0:43, timeout set
+13:0:59, circ, 48
+13:1:19, circ, 33.3
+13:1:43, topoff, off
+13:1:59, circ, 48
+13:2:19, circ, 33.3
+13:2:59, circ, 48
+13:3:19, circ, 33.3
+13:3:43, topoff, on
+13:3:43, alarm, 1, input closed
+13:3:43, timeout set
+13:3:59, circ, 48
+13:4:19, circ, 33.3
+13:4:43, topoff, off
+13:5:0, circ, 48
+13:5:20, circ, 33.3
+13:6:0, circ, 48
+13:6:20, circ, 33.3
+13:6:43, topoff, on
+13:6:43, alarm, 1, input closed
+13:6:43, timeout set
+13:7:0, circ, 48
+13:7:20, circ, 33.3
+13:7:43, topoff, off
+13:8:0, circ, 48
+13:8:20, circ, 33.3
+13:9:0, circ, 48
+13:9:20, circ, 33.3
+13:9:43, topoff, on
+13:9:43, alarm, 1, input closed
+13:9:43, timeout set
+13:10:0, circ, 48
+13:10:20, circ, 33.3
+13:10:43, topoff, off
+13:11:0, circ, 48
+13:11:20, circ, 33.3
+13:12:0, circ, 48
+13:12:20, circ, 33.3
+13:12:43, topoff, on
+13:12:43, alarm, 1, input closed
+13:12:43, timeout set
+13:13:0, circ, 48
+13:13:20, circ, 33.3
+13:13:43, topoff, off
+13:14:0, circ, 48
+13:14:20, circ, 33.3
+13:15:0, circ, 48
+13:15:20, circ, 33.3
+13:15:43, topoff, on
+13:15:43, alarm, 1, input closed
+13:15:43, timeout set
+13:16:0, circ, 48
+13:16:20, circ, 33.3
+13:16:43, topoff, off
+13:17:0, circ, 48
+13:17:20, circ, 33.3
+13:18:0, circ, 48
+13:18:20, circ, 33.3
+13:18:43, topoff, on
+13:18:43, alarm, 1, input closed
+13:18:43, timeout set
+13:19:0, circ, 48
+13:19:20, circ, 33.3
+13:19:43, topoff, off
+13:20:0, circ, 48
+13:20:20, circ, 33.3
+13:21:0, circ, 48
+13:21:20, circ, 33.3
+13:21:36, diverter, off
+13:21:43, topoff, on
+13:21:43, alarm, 1, input closed
+13:21:43, timeout set
+13:22:0, circ, 48
+13:22:20, circ, 33.3
+13:22:43, topoff, off
+13:23:0, circ, 48
+13:23:20, circ, 33.3
+13:24:0, circ, 48
+13:24:20, circ, 33.3
+13:24:43, topoff, on
+13:24:43, alarm, 1, input closed
+13:24:43, timeout set
+13:25:0, circ, 48
+13:25:20, circ, 33.3
+13:25:43, topoff, off
+13:26:0, circ, 48
+13:26:20, circ, 33.3
+13:27:0, circ, 48
+13:27:20, circ, 33.3
+13:27:43, topoff, on
+13:27:43, alarm, 1, input closed
+13:27:43, timeout set
+13:28:0, circ, 48
+13:28:20, circ, 33.3
+13:28:43, topoff, off
+13:29:0, circ, 48
+13:29:20, circ, 33.3
+13:30:0, circ, 48
+13:30:20, circ, 33.3
+13:30:43, topoff, on
+13:30:43, alarm, 1, input closed
+13:30:43, timeout set
+13:31:0, circ, 48
+13:31:20, circ, 33.3
+13:31:43, topoff, off
+13:32:0, circ, 48
+13:32:20, circ, 33.3
+13:33:0, circ, 48
+13:33:20, circ, 33.3
+13:33:43, topoff, on
+13:33:43, alarm, 1, input closed
+13:33:43, timeout set
+13:34:1, circ, 48
+13:34:21, circ, 33.3
+13:34:43, topoff, off
+13:35:1, circ, 48
+13:35:21, circ, 33.3
+13:36:1, circ, 48
+13:36:21, circ, 33.3
+13:36:43, topoff, on
+13:36:43, alarm, 1, input closed
+13:36:43, timeout set
+13:37:1, circ, 48
+13:37:21, circ, 33.3
+13:37:43, topoff, off
+13:38:1, circ, 48
+13:38:21, circ, 33.3
+13:39:1, circ, 48
+13:39:21, circ, 33.3
+13:39:43, topoff, on
+13:39:43, alarm, 1, input closed
+13:39:43, timeout set
+13:40:1, circ, 48
+13:40:21, circ, 33.3
+13:40:43, topoff, off
+13:41:1, circ, 48
+13:41:21, circ, 33.3
+13:42:1, circ, 48
+13:42:21, circ, 33.3
+13:42:43, topoff, on
+13:42:43, alarm, 1, input closed
+13:42:43, timeout set
+13:43:1, circ, 48
+13:43:21, circ, 33.3
+13:43:43, topoff, off
+13:44:1, circ, 48
+13:44:21, circ, 33.3
+13:45:1, circ, 48
+13:45:21, circ, 33.3
+13:45:43, topoff, on
+13:45:43, alarm, 1, input closed
+13:45:43, timeout set
+13:46:1, circ, 48
+13:46:21, circ, 33.3
+13:46:43, topoff, off
+13:47:1, circ, 48
+13:47:21, circ, 33.3
+13:48:1, circ, 48
+13:48:21, circ, 33.3
+13:48:43, topoff, on
+13:48:43, alarm, 1, input closed
+13:48:43, timeout set
+13:49:1, circ, 48
+13:49:21, circ, 33.3
+13:49:43, topoff, off
+13:50:1, circ, 48
+13:50:21, circ, 33.3
+13:51:1, circ, 48
+13:51:21, circ, 33.3
+13:51:36, diverter, on
+13:51:43, topoff, on
+13:51:43, alarm, 1, input closed
+13:51:43, timeout set
+13:52:1, circ, 48
+13:52:21, circ, 33.3
+13:52:43, topoff, off
+13:53:1, circ, 48
+13:53:21, circ, 33.3
+13:54:1, circ, 48
+13:54:21, circ, 33.3
+13:54:43, topoff, on
+13:54:43, alarm, 1, input closed
+13:54:43, timeout set
+13:55:1, circ, 48
+13:55:21, circ, 33.3
+13:55:43, topoff, off
+13:56:1, circ, 48
+13:56:21, circ, 33.3
+13:57:1, circ, 48
+13:57:21, circ, 33.3
+13:57:43, topoff, on
+13:57:43, alarm, 1, input closed
+13:57:43, timeout set
+13:58:1, circ, 48
+13:58:21, circ, 33.3
+13:58:43, topoff, off
+13:59:1, circ, 48
+13:59:21, circ, 33.3
+14:0:1, circ, 48
+14:0:21, circ, 33.3
+14:0:43, topoff, on
+14:0:43, alarm, 1, input closed
+14:0:43, timeout set
+14:1:1, circ, 48
+14:1:21, circ, 33.3
+14:1:43, topoff, off
+14:2:2, circ, 48
+14:2:22, circ, 33.3
+14:3:2, circ, 48
+14:3:22, circ, 33.3
+14:3:43, topoff, on
+14:3:43, alarm, 1, input closed
+14:3:43, timeout set
+14:4:2, circ, 48
+14:4:22, circ, 33.3
+14:4:43, topoff, off
+14:5:2, circ, 48
+14:5:22, circ, 33.3
+14:6:2, circ, 48
+14:6:22, circ, 33.3
+14:6:43, topoff, on
+14:6:43, alarm, 1, input closed
+14:6:43, timeout set
+14:7:2, circ, 48
+14:7:22, circ, 33.3
+14:7:43, topoff, off
+14:8:2, circ, 48
+14:8:22, circ, 33.3
+14:9:2, circ, 48
+14:9:22, circ, 33.3
+14:9:43, topoff, on
+14:9:43, alarm, 1, input closed
+14:9:43, timeout set
+14:10:2, circ, 48
+14:10:22, circ, 33.3
+14:10:43, topoff, off
+14:11:2, circ, 48
+14:11:22, circ, 33.3
+14:12:2, circ, 48
+14:12:22, circ, 33.3
+14:12:43, topoff, on
+14:12:43, alarm, 1, input closed
+14:12:43, timeout set
+14:13:2, circ, 48
+14:13:22, circ, 33.3
+14:13:43, topoff, off
+14:14:2, circ, 48
+14:14:22, circ, 33.3
+14:15:2, circ, 48
+14:15:22, circ, 33.3
+14:15:43, topoff, on
+14:15:43, alarm, 1, input closed
+14:15:43, timeout set
+14:16:2, circ, 48
+14:16:22, circ, 33.3
+14:16:43, topoff, off
+14:17:2, circ, 48
+14:17:22, circ, 33.3
+14:18:2, circ, 48
+14:18:22, circ, 33.3
+14:18:43, topoff, on
+14:18:43, alarm, 1, input closed
+14:18:43, timeout set
+14:19:2, circ, 48
+14:19:22, circ, 33.3
+14:19:43, topoff, off
+14:20:2, circ, 48
+14:20:22, circ, 33.3
+14:21:2, circ, 48
+14:21:22, circ, 33.3
+14:21:36, sumpcirc, left, off
+14:21:36, sumpcirc, right, on
+14:21:36, diverter, off
+14:21:43, topoff, on
+14:21:43, alarm, 1, input closed
+14:21:43, timeout set
+14:22:2, circ, 48
+14:22:22, circ, 33.3
+14:22:43, topoff, off
+14:23:2, circ, 48
+14:23:22, circ, 33.3
+14:24:2, circ, 48
+14:24:22, circ, 33.3
+14:24:43, topoff, on
+14:24:43, alarm, 1, input closed
+14:24:43, timeout set
+14:25:2, circ, 48
+14:25:22, circ, 33.3
+14:25:43, topoff, off
+14:26:2, circ, 48
+14:26:22, circ, 33.3
+14:27:2, circ, 48
+14:27:22, circ, 33.3
+14:27:43, topoff, on
+14:27:43, alarm, 1, input closed
+14:27:43, timeout set
+14:28:2, circ, 48
+14:28:23, circ, 33.3
+14:28:43, topoff, off
+14:29:3, circ, 48
+14:29:23, circ, 33.3
+14:30:3, circ, 48
+14:30:23, circ, 33.3
+14:30:43, topoff, on
+14:30:43, alarm, 1, input closed
+14:30:43, timeout set
+14:31:3, circ, 48
+14:31:23, circ, 33.3
+14:31:43, topoff, off
+14:32:3, circ, 48
+14:32:23, circ, 33.3
+14:33:3, circ, 48
+14:33:23, circ, 33.3
+14:33:43, topoff, on
+14:33:43, alarm, 1, input closed
+14:33:43, timeout set
+14:34:3, circ, 48
+14:34:23, circ, 33.3
+14:34:43, topoff, off
+14:35:3, circ, 48
+14:35:23, circ, 33.3
+14:36:3, circ, 48
+14:36:23, circ, 33.3
+14:36:43, topoff, on
+14:36:43, alarm, 1, input closed
+14:36:43, timeout set
+14:37:3, circ, 48
+14:37:23, circ, 33.3
+14:37:43, topoff, off
+14:38:3, circ, 48
+14:38:23, circ, 33.3
+14:39:3, circ, 48
+14:39:23, circ, 33.3
+14:39:43, topoff, on
+14:39:43, alarm, 1, input closed
+14:39:43, timeout set
+14:40:3, circ, 48
+14:40:23, circ, 33.3
+14:40:43, topoff, off
+14:41:3, circ, 48
+14:41:23, circ, 33.3
+14:42:3, circ, 48
+14:42:23, circ, 33.3
+14:42:43, topoff, on
+14:42:43, alarm, 1, input closed
+14:42:43, timeout set
+14:43:3, circ, 48
+14:43:23, circ, 33.3
+14:43:43, topoff, off
+14:44:3, circ, 48
+14:44:23, circ, 33.3
+14:45:3, circ, 48
+14:45:23, circ, 33.3
+14:45:43, topoff, on
+14:45:43, alarm, 1, input closed
+14:45:43, timeout set
+14:46:3, circ, 48
+14:46:23, circ, 33.3
+14:46:43, topoff, off
+14:47:3, circ, 48
+14:47:23, circ, 33.3
+14:48:3, circ, 48
+14:48:23, circ, 33.3
+14:48:43, topoff, on
+14:48:43, alarm, 1, input closed
+14:48:43, timeout set
+14:49:3, circ, 48
+14:49:23, circ, 33.3
+14:49:43, topoff, off
+14:50:3, circ, 48
+14:50:23, circ, 33.3
+14:51:3, circ, 48
+14:51:23, circ, 33.3
+14:51:36, diverter, on
+14:51:43, topoff, on
+14:51:43, alarm, 1, input closed
+14:51:43, timeout set
+14:52:3, circ, 48
+14:52:23, circ, 33.3
+14:52:43, topoff, off
+14:53:3, circ, 48
+14:53:23, circ, 33.3
+14:54:3, circ, 48
+14:54:23, circ, 33.3
+14:54:43, topoff, on
+14:54:43, alarm, 1, input closed
+14:54:43, timeout set
+14:55:4, circ, 48
+14:55:24, circ, 33.3
+14:55:43, topoff, off
+14:56:4, circ, 48
+14:56:24, circ, 33.3
+14:57:4, circ, 48
+14:57:24, circ, 33.3
+14:57:43, topoff, on
+14:57:43, alarm, 1, input closed
+14:57:43, timeout set
+14:58:4, circ, 48
+14:58:24, circ, 33.3
+14:58:43, topoff, off
+14:59:4, circ, 48
+14:59:24, circ, 33.3
+15:0:4, circ, 48
+15:0:24, circ, 33.3
+15:0:43, topoff, on
+15:0:43, alarm, 1, input closed
+15:0:44, timeout set
+15:1:4, circ, 48
+15:1:24, circ, 33.3
+15:1:44, topoff, off
+15:2:4, circ, 48
+15:2:24, circ, 33.3
+15:3:4, circ, 48
+15:3:24, circ, 33.3
+15:3:44, topoff, on
+15:3:44, alarm, 1, input closed
+15:3:44, timeout set
+15:4:4, circ, 48
+15:4:24, circ, 33.3
+15:4:44, topoff, off
+15:5:4, circ, 48
+15:5:24, circ, 33.3
+15:6:4, circ, 48
+15:6:24, circ, 33.3
+15:6:44, topoff, on
+15:6:44, alarm, 1, input closed
+15:6:44, timeout set
+15:7:4, circ, 48
+15:7:24, circ, 33.3
+15:7:44, topoff, off
+15:8:4, circ, 48
+15:8:24, circ, 33.3
+15:9:4, circ, 48
+15:9:24, circ, 33.3
+15:9:44, topoff, on
+15:9:44, alarm, 1, input closed
+15:9:44, timeout set
+15:10:4, circ, 48
+15:10:24, circ, 33.3
+15:10:44, topoff, off
+15:11:4, circ, 48
+15:11:24, circ, 33.3
+15:12:4, circ, 48
+15:12:24, circ, 33.3
+15:12:44, topoff, on
+15:12:44, alarm, 1, input closed
+15:12:44, timeout set
+15:13:4, circ, 48
+15:13:24, circ, 33.3
+15:13:44, topoff, off
+15:14:4, circ, 48
+15:14:24, circ, 33.3
+15:15:4, circ, 48
+15:15:24, circ, 33.3
+15:15:44, topoff, on
+15:15:44, alarm, 1, input closed
+15:15:44, timeout set
+15:16:4, circ, 48
+15:16:24, circ, 33.3
+15:16:44, topoff, off
+15:17:4, circ, 48
+15:17:24, circ, 33.3
+15:18:4, circ, 48
+15:18:24, circ, 33.3
+15:18:44, topoff, on
+15:18:44, alarm, 1, input closed
+15:18:44, timeout set
+15:19:4, circ, 48
+15:19:24, circ, 33.3
+15:19:44, topoff, off
+15:20:4, circ, 48
+15:20:24, circ, 33.3
+15:21:4, circ, 48
+15:21:25, circ, 33.3
+15:21:36, diverter, off
+15:21:44, topoff, on
+15:21:44, alarm, 1, input closed
+15:21:44, timeout set
+15:22:5, circ, 48
+15:22:25, circ, 33.3
+15:22:44, topoff, off
+15:23:5, circ, 48
+15:23:25, circ, 33.3
+15:24:5, circ, 48
+15:24:25, circ, 33.3
+15:24:44, topoff, on
+15:24:44, alarm, 1, input closed
+15:24:44, timeout set
+15:25:5, circ, 48
+15:25:25, circ, 33.3
+15:25:44, topoff, off
+15:26:5, circ, 48
+15:26:25, circ, 33.3
+15:27:5, circ, 48
+15:27:25, circ, 33.3
+15:27:44, topoff, on
+15:27:44, alarm, 1, input closed
+15:27:44, timeout set
+15:28:5, circ, 48
+15:28:25, circ, 33.3
+15:28:44, topoff, off
+15:29:5, circ, 48
+15:29:25, circ, 33.3
+15:30:5, circ, 48
+15:30:25, circ, 33.3
+15:30:44, topoff, on
+15:30:44, alarm, 1, input closed
+15:30:44, timeout set
+15:31:5, circ, 48
+15:31:25, circ, 33.3
+15:31:44, topoff, off
+15:32:5, circ, 48
+15:32:25, circ, 33.3
+15:33:5, circ, 48
+15:33:25, circ, 33.3
+15:33:44, topoff, on
+15:33:44, alarm, 1, input closed
+15:33:44, timeout set
+15:34:5, circ, 48
+15:34:25, circ, 33.3
+15:34:44, topoff, off
+15:35:5, circ, 48
+15:35:25, circ, 33.3
+15:36:5, circ, 48
+15:36:25, circ, 33.3
+15:36:44, topoff, on
+15:36:44, alarm, 1, input closed
+15:36:44, timeout set
+15:37:5, circ, 48
+15:37:25, circ, 33.3
+15:37:44, topoff, off
+15:38:5, circ, 48
+15:38:25, circ, 33.3
+15:39:5, circ, 48
+15:39:25, circ, 33.3
+15:39:44, topoff, on
+15:39:44, alarm, 1, input closed
+15:39:44, timeout set
+15:40:5, circ, 48
+15:40:25, circ, 33.3
+15:40:44, topoff, off
+15:41:5, circ, 48
+15:41:25, circ, 33.3
+15:42:5, circ, 48
+15:42:25, circ, 33.3
+15:42:44, topoff, on
+15:42:44, alarm, 1, input closed
+15:42:44, timeout set
+15:43:5, circ, 48
+15:43:25, circ, 33.3
+15:43:44, topoff, off
+15:44:5, circ, 48
+15:44:25, circ, 33.3
+15:45:5, circ, 48
+15:45:25, circ, 33.3
+15:45:44, topoff, on
+15:45:44, alarm, 1, input closed
+15:45:44, timeout set
+15:46:5, circ, 48
+15:46:25, circ, 33.3
+15:46:44, topoff, off
+15:47:5, circ, 48
+15:47:26, circ, 33.3
+15:48:6, circ, 48
+15:48:26, circ, 33.3
+15:48:44, topoff, on
+15:48:44, alarm, 1, input closed
+15:48:44, timeout set
+15:49:6, circ, 48
+15:49:26, circ, 33.3
+15:49:44, topoff, off
+15:50:6, circ, 48
+15:50:26, circ, 33.3
+15:51:6, circ, 48
+15:51:26, circ, 33.3
+15:51:36, diverter, on
+15:51:44, topoff, on
+15:51:44, alarm, 1, input closed
+15:51:44, timeout set
+15:52:6, circ, 48
+15:52:26, circ, 33.3
+15:52:44, topoff, off
+15:53:6, circ, 48
+15:53:26, circ, 33.3
+15:54:6, circ, 48
+15:54:26, circ, 33.3
+15:54:44, topoff, on
+15:54:44, alarm, 1, input closed
+15:54:44, timeout set
+15:55:6, circ, 48
+15:55:26, circ, 33.3
+15:55:44, topoff, off
+15:56:6, circ, 48
+15:56:26, circ, 33.3
+15:57:6, circ, 48
+15:57:26, circ, 33.3
+15:57:44, topoff, on
+15:57:44, alarm, 1, input closed
+15:57:44, timeout set
+15:58:6, circ, 48
+15:58:26, circ, 33.3
+15:58:44, topoff, off
+15:59:6, circ, 48
+15:59:26, circ, 33.3
+16:0:6, circ, 48
+16:0:26, circ, 33.3
+16:0:44, topoff, on
+16:0:44, alarm, 1, input closed
+16:0:44, timeout set
+16:1:6, circ, 48
+16:1:26, circ, 33.3
+16:1:44, topoff, off
+16:2:6, circ, 48
+16:2:26, circ, 33.3
+16:3:6, circ, 48
+16:3:26, circ, 33.3
+16:3:44, topoff, on
+16:3:44, alarm, 1, input closed
+16:3:44, timeout set
+16:4:6, circ, 48
+16:4:26, circ, 33.3
+16:4:44, topoff, off
+16:5:6, circ, 48
+16:5:26, circ, 33.3
+16:6:6, circ, 48
+16:6:26, circ, 33.3
+16:6:44, topoff, on
+16:6:44, alarm, 1, input closed
+16:6:44, timeout set
+16:7:6, circ, 48
+16:7:26, circ, 33.3
+16:7:44, topoff, off
+16:8:6, circ, 48
+16:8:26, circ, 33.3
+16:9:6, circ, 48
+16:9:26, circ, 33.3
+16:9:44, topoff, on
+16:9:44, alarm, 1, input closed
+16:9:44, timeout set
+16:10:6, circ, 48
+16:10:26, circ, 33.3
+16:10:44, topoff, off
+16:11:6, circ, 48
+16:11:26, circ, 33.3
+16:12:7, circ, 48
+16:12:27, circ, 33.3
+16:12:44, topoff, on
+16:12:44, alarm, 1, input closed
+16:12:44, timeout set
+16:13:7, circ, 48
+16:13:27, circ, 33.3
+16:13:44, topoff, off
+16:14:7, circ, 48
+16:14:27, circ, 33.3
+16:15:7, circ, 48
+16:15:27, circ, 33.3
+16:15:44, topoff, on
+16:15:44, alarm, 1, input closed
+16:15:44, timeout set
+16:16:7, circ, 48
+16:16:27, circ, 33.3
+16:16:44, topoff, off
+16:17:7, circ, 48
+16:17:27, circ, 33.3
+16:18:7, circ, 48
+16:18:27, circ, 33.3
+16:18:44, topoff, on
+16:18:44, alarm, 1, input closed
+16:18:44, timeout set
+16:19:7, circ, 48
+16:19:27, circ, 33.3
+16:19:44, topoff, off
+16:20:7, circ, 48
+16:20:27, circ, 33.3
+16:21:7, circ, 48
+16:21:27, circ, 33.3
+16:21:36, diverter, off
+16:21:44, topoff, on
+16:21:44, alarm, 1, input closed
+16:21:44, timeout set
+16:22:7, circ, 48
+16:22:27, circ, 33.3
+16:22:44, topoff, off
+16:23:7, circ, 48
+16:23:27, circ, 33.3
+16:24:7, circ, 48
+16:24:27, circ, 33.3
+16:24:44, topoff, on
+16:24:44, alarm, 1, input closed
+16:24:44, timeout set
+16:25:7, circ, 48
+16:25:27, circ, 33.3
+16:25:44, topoff, off
+16:26:7, circ, 48
+16:26:27, circ, 33.3
+16:27:7, circ, 48
+16:27:27, circ, 33.3
+16:27:44, topoff, on
+16:27:44, alarm, 1, input closed
+16:27:44, timeout set
+16:28:7, circ, 48
+16:28:27, circ, 33.3
+16:28:44, topoff, off
+16:29:7, circ, 48
+16:29:27, circ, 33.3
+16:30:7, circ, 48
+16:30:27, circ, 33.3
+16:30:38, tanklight, left, 750
+16:30:44, topoff, on
+16:30:44, alarm, 1, input closed
+16:30:44, timeout set
+16:31:7, circ, 48
+16:31:27, circ, 33.3
+16:31:44, topoff, off
+16:32:7, circ, 48
+16:32:27, circ, 33.3
+16:33:7, circ, 48
+16:33:27, circ, 33.3
+16:33:44, topoff, on
+16:33:44, alarm, 1, input closed
+16:33:44, timeout set
+16:34:7, circ, 48
+16:34:27, circ, 33.3
+16:34:44, topoff, off
+16:35:7, circ, 48
+16:35:27, circ, 33.3
+16:36:7, circ, 48
+16:36:27, circ, 33.3
+16:36:44, topoff, on
+16:36:44, alarm, 1, input closed
+16:36:44, timeout set
+16:37:7, circ, 48
+16:37:27, circ, 33.3
+16:37:44, topoff, off
+16:38:8, circ, 48
+16:38:28, circ, 33.3
+16:39:8, circ, 48
+16:39:28, circ, 33.3
+16:39:44, topoff, on
+16:39:44, alarm, 1, input closed
+16:39:44, timeout set
+16:40:8, circ, 48
+16:40:28, circ, 33.3
+16:40:44, topoff, off
+16:41:8, circ, 48
+16:41:28, circ, 33.3
+16:42:8, circ, 48
+16:42:28, circ, 33.3
+16:42:44, topoff, on
+16:42:44, alarm, 1, input closed
+16:42:44, timeout set
+16:43:8, circ, 48
+16:43:28, circ, 33.3
+16:43:44, topoff, off
+16:44:8, circ, 48
+16:44:28, circ, 33.3
+16:45:8, circ, 48
+16:45:28, circ, 33.3
+16:45:38, tanklight, right, 750
+16:45:44, topoff, on
+16:45:44, alarm, 1, input closed
+16:45:44, timeout set
+16:46:8, circ, 48
+16:46:28, circ, 33.3
+16:46:44, topoff, off
+16:47:8, circ, 48
+16:47:28, circ, 33.3
+16:48:8, circ, 48
+16:48:28, circ, 33.3
+16:48:44, topoff, on
+16:48:44, alarm, 1, input closed
+16:48:44, timeout set
+16:49:8, circ, 48
+16:49:28, circ, 33.3
+16:49:44, topoff, off
+16:50:8, circ, 48
+16:50:28, circ, 33.3
+16:51:8, circ, 48
+16:51:28, circ, 33.3
+16:51:36, diverter, on
+16:51:44, topoff, on
+16:51:44, alarm, 1, input closed
+16:51:44, timeout set
+16:52:8, circ, 48
+16:52:28, circ, 33.3
+16:52:44, topoff, off
+16:53:8, circ, 48
+16:53:28, circ, 33.3
+16:54:8, circ, 48
+16:54:28, circ, 33.3
+16:54:44, topoff, on
+16:54:44, alarm, 1, input closed
+16:54:44, timeout set
+16:55:8, circ, 48
+16:55:28, circ, 33.3
+16:55:44, topoff, off
+16:56:8, circ, 48
+16:56:28, circ, 33.3
+16:57:8, circ, 48
+16:57:28, circ, 33.3
+16:57:44, topoff, on
+16:57:44, alarm, 1, input closed
+16:57:44, timeout set
+16:58:8, circ, 48
+16:58:28, circ, 33.3
+16:58:44, topoff, off
+16:59:8, circ, 48
+16:59:28, circ, 33.3
+17:0:8, circ, 48
+17:0:28, circ, 33.3
+17:0:38, tanklight, center, 750
+17:0:44, topoff, on
+17:0:44, alarm, 1, input closed
+17:0:44, timeout set
+17:1:8, circ, 48
+17:1:28, circ, 33.3
+17:1:44, topoff, off
+17:2:8, circ, 48
+17:2:28, circ, 33.3
+17:3:9, circ, 48
+17:3:29, circ, 33.3
+17:3:44, topoff, on
+17:3:44, alarm, 1, input closed
+17:3:44, timeout set
+17:4:9, circ, 48
+17:4:29, circ, 33.3
+17:4:44, topoff, off
+17:5:9, circ, 48
+17:5:29, circ, 33.3
+17:6:9, circ, 48
+17:6:29, circ, 33.3
+17:6:44, topoff, on
+17:6:44, alarm, 1, input closed
+17:6:44, timeout set
+17:7:9, circ, 48
+17:7:29, circ, 33.3
+17:7:44, topoff, off
+17:8:9, circ, 48
+17:8:29, circ, 33.3
+17:9:9, circ, 48
+17:9:29, circ, 33.3
+17:9:44, topoff, on
+17:9:44, alarm, 1, input closed
+17:9:44, timeout set
+17:10:9, circ, 48
+17:10:29, circ, 33.3
+17:10:44, topoff, off
+17:11:9, circ, 48
+17:11:29, circ, 33.3
+17:12:9, circ, 48
+17:12:29, circ, 33.3
+17:12:44, topoff, on
+17:12:44, alarm, 1, input closed
+17:12:44, timeout set
+17:13:9, circ, 48
+17:13:29, circ, 33.3
+17:13:44, topoff, off
+17:14:9, circ, 48
+17:14:29, circ, 33.3
+17:15:9, circ, 48
+17:15:29, circ, 33.3
+17:15:44, topoff, on
+17:15:44, alarm, 1, input closed
+17:15:44, timeout set
+17:16:9, circ, 48
+17:16:29, circ, 33.3
+17:16:44, topoff, off
+17:17:9, circ, 48
+17:17:29, circ, 33.3
+17:18:9, circ, 48
+17:18:29, circ, 33.3
+17:18:44, topoff, on
+17:18:44, alarm, 1, input closed
+17:18:44, timeout set
+17:19:9, circ, 48
+17:19:29, circ, 33.3
+17:19:44, topoff, off
+17:20:9, circ, 48
+17:20:29, circ, 33.3
+17:21:9, circ, 48
+17:21:29, circ, 33.3
+17:21:36, sumpcirc, right, off
+17:21:36, sumpcirc, left, on
+17:21:36, diverter, off
+17:21:44, topoff, on
+17:21:44, alarm, 1, input closed
+17:21:44, timeout set
+17:22:9, circ, 48
+17:22:29, circ, 33.3
+17:22:44, topoff, off
+17:23:9, circ, 48
+17:23:29, circ, 33.3
+17:24:9, circ, 48
+17:24:29, circ, 33.3
+17:24:44, topoff, on
+17:24:44, alarm, 1, input closed
+17:24:44, timeout set
+17:25:9, circ, 48
+17:25:29, circ, 33.3
+17:25:44, topoff, off
+17:26:9, circ, 48
+17:26:29, circ, 33.3
+17:27:9, circ, 48
+17:27:29, circ, 33.3
+17:27:44, topoff, on
+17:27:44, alarm, 1, input closed
+17:27:44, timeout set
+17:28:9, circ, 48
+17:28:30, circ, 33.3
+17:28:44, topoff, off
+17:29:10, circ, 48
+17:29:30, circ, 33.3
+17:30:10, circ, 48
+17:30:30, circ, 33.3
+17:30:38, tanklight, left, 600
+17:30:44, topoff, on
+17:30:44, alarm, 1, input closed
+17:30:44, timeout set
+17:31:10, circ, 48
+17:31:30, circ, 33.3
+17:31:44, topoff, off
+17:32:10, circ, 48
+17:32:30, circ, 33.3
+17:33:10, circ, 48
+17:33:30, circ, 33.3
+17:33:44, topoff, on
+17:33:44, alarm, 1, input closed
+17:33:44, timeout set
+17:34:10, circ, 48
+17:34:30, circ, 33.3
+17:34:44, topoff, off
+17:35:10, circ, 48
+17:35:30, circ, 33.3
+17:36:10, circ, 48
+17:36:30, circ, 33.3
+17:36:44, topoff, on
+17:36:44, alarm, 1, input closed
+17:36:44, timeout set
+17:37:10, circ, 48
+17:37:30, circ, 33.3
+17:37:44, topoff, off
+17:38:10, circ, 48
+17:38:30, circ, 33.3
+17:39:10, circ, 48
+17:39:30, circ, 33.3
+17:39:44, topoff, on
+17:39:44, alarm, 1, input closed
+17:39:44, timeout set
+17:40:10, circ, 48
+17:40:30, circ, 33.3
+17:40:44, topoff, off
+17:41:10, circ, 48
+17:41:30, circ, 33.3
+17:42:10, circ, 48
+17:42:30, circ, 33.3
+17:42:44, topoff, on
+17:42:44, alarm, 1, input closed
+17:42:44, timeout set
+17:43:10, circ, 48
+17:43:30, circ, 33.3
+17:43:44, topoff, off
+17:44:10, circ, 48
+17:44:30, circ, 33.3
+17:45:10, circ, 48
+17:45:30, circ, 33.3
+17:45:38, tanklight, right, 600
+17:45:44, topoff, on
+17:45:44, alarm, 1, input closed
+17:45:44, timeout set
+17:46:10, circ, 48
+17:46:30, circ, 33.3
+17:46:44, topoff, off
+17:47:10, circ, 48
+17:47:30, circ, 33.3
+17:48:10, circ, 48
+17:48:30, circ, 33.3
+17:48:44, topoff, on
+17:48:44, alarm, 1, input closed
+17:48:44, timeout set
+17:49:10, circ, 48
+17:49:30, circ, 33.3
+17:49:44, topoff, off
+17:50:10, circ, 48
+17:50:30, circ, 33.3
+17:51:10, circ, 48
+17:51:30, circ, 33.3
+17:51:36, diverter, on
+17:51:44, topoff, on
+17:51:44, alarm, 1, input closed
+17:51:44, timeout set
+17:52:10, circ, 48
+17:52:30, circ, 33.3
+17:52:44, topoff, off
+17:53:10, circ, 48
+17:53:31, circ, 33.3
+17:54:11, circ, 48
+17:54:31, circ, 33.3
+17:54:44, topoff, on
+17:54:44, alarm, 1, input closed
+17:54:44, timeout set
+17:55:11, circ, 48
+17:55:31, circ, 33.3
+17:55:44, topoff, off
+17:56:11, circ, 48
+17:56:31, circ, 33.3
+17:57:11, circ, 48
+17:57:31, circ, 33.3
+17:57:44, topoff, on
+17:57:44, alarm, 1, input closed
+17:57:44, timeout set
+17:58:11, circ, 48
+17:58:31, circ, 33.3
+17:58:44, topoff, off
+17:59:11, circ, 48
+17:59:31, circ, 33.3
+18:0:11, circ, 48
+18:0:31, circ, 33.3
+18:0:38, tanklight, center, 600
+18:0:44, topoff, on
+18:0:44, alarm, 1, input closed
+18:0:44, timeout set
+18:1:11, circ, 48
+18:1:31, circ, 33.3
+18:1:44, topoff, off
+18:2:11, circ, 48
+18:2:31, circ, 33.3
+18:3:11, circ, 48
+18:3:31, circ, 33.3
+18:3:44, topoff, on
+18:3:44, alarm, 1, input closed
+18:3:44, timeout set
+18:4:11, circ, 48
+18:4:31, circ, 33.3
+18:4:44, topoff, off
+18:5:11, circ, 48
+18:5:31, circ, 33.3
+18:6:11, circ, 48
+18:6:31, circ, 33.3
+18:6:44, topoff, on
+18:6:44, alarm, 1, input closed
+18:6:44, timeout set
+18:7:11, circ, 48
+18:7:31, circ, 33.3
+18:7:44, topoff, off
+18:8:11, circ, 48
+18:8:31, circ, 33.3
+18:9:11, circ, 48
+18:9:31, circ, 33.3
+18:9:44, topoff, on
+18:9:44, alarm, 1, input closed
+18:9:44, timeout set
+18:10:11, circ, 48
+18:10:31, circ, 33.3
+18:10:44, topoff, off
+18:11:11, circ, 48
+18:11:31, circ, 33.3
+18:12:11, circ, 48
+18:12:31, circ, 33.3
+18:12:44, topoff, on
+18:12:44, alarm, 1, input closed
+18:12:44, timeout set
+18:13:11, circ, 48
+18:13:31, circ, 33.3
+18:13:44, topoff, off
+18:14:11, circ, 48
+18:14:31, circ, 33.3
+18:15:11, circ, 48
+18:15:31, circ, 33.3
+18:15:44, topoff, on
+18:15:44, alarm, 1, input closed
+18:15:44, timeout set
+18:16:11, circ, 48
+18:16:31, circ, 33.3
+18:16:44, topoff, off
+18:17:11, circ, 48
+18:17:31, circ, 33.3
+18:18:11, circ, 48
+18:18:31, circ, 33.3
+18:18:44, topoff, on
+18:18:44, alarm, 1, input closed
+18:18:44, timeout set
+18:19:11, circ, 48
+18:19:31, circ, 33.3
+18:19:44, topoff, off
+18:20:11, circ, 48
+18:20:32, circ, 33.3
+18:21:12, circ, 48
+18:21:32, circ, 33.3
+18:21:36, diverter, off
+18:21:44, topoff, on
+18:21:44, alarm, 1, input closed
+18:21:44, timeout set
+18:22:12, circ, 48
+18:22:32, circ, 33.3
+18:22:44, topoff, off
+18:23:12, circ, 48
+18:23:32, circ, 33.3
+18:24:12, circ, 48
+18:24:32, circ, 33.3
+18:24:44, topoff, on
+18:24:44, alarm, 1, input closed
+18:24:44, timeout set
+18:25:12, circ, 48
+18:25:32, circ, 33.3
+18:25:44, topoff, off
+18:26:12, circ, 48
+18:26:32, circ, 33.3
+18:27:12, circ, 48
+18:27:32, circ, 33.3
+18:27:44, topoff, on
+18:27:44, alarm, 1, input closed
+18:27:44, timeout set
+18:28:12, circ, 48
+18:28:32, circ, 33.3
+18:28:44, topoff, off
+18:29:12, circ, 48
+18:29:32, circ, 33.3
+18:30:12, circ, 48
+18:30:32, circ, 33.3
+18:30:44, topoff, on
+18:30:44, alarm, 1, input closed
+18:30:44, timeout set
+18:31:12, circ, 48
+18:31:32, circ, 33.3
+18:31:44, topoff, off
+18:32:12, circ, 48
+18:32:32, circ, 33.3
+18:33:12, circ, 48
+18:33:32, circ, 33.3
+18:33:44, topoff, on
+18:33:44, alarm, 1, input closed
+18:33:44, timeout set
+18:34:12, circ, 48
+18:34:32, circ, 33.3
+18:34:44, topoff, off
+18:35:12, circ, 48
+18:35:32, circ, 33.3
+18:36:12, circ, 48
+18:36:32, circ, 33.3
+18:36:44, topoff, on
+18:36:44, alarm, 1, input closed
+18:36:44, timeout set
+18:37:12, circ, 48
+18:37:32, circ, 33.3
+18:37:44, topoff, off
+18:38:12, circ, 48
+18:38:32, circ, 33.3
+18:39:12, circ, 48
+18:39:32, circ, 33.3
+18:39:44, topoff, on
+18:39:44, alarm, 1, input closed
+18:39:44, timeout set
+18:40:12, circ, 48
+18:40:32, circ, 33.3
+18:40:44, topoff, off
+18:41:12, circ, 48
+18:41:32, circ, 33.3
+18:42:12, circ, 48
+18:42:32, circ, 33.3
+18:42:44, topoff, on
+18:42:44, alarm, 1, input closed
+18:42:44, timeout set
+18:43:12, circ, 48
+18:43:32, circ, 33.3
+18:43:44, topoff, off
+18:44:12, circ, 48
+18:44:32, circ, 33.3
+18:45:12, circ, 48
+18:45:32, circ, 33.3
+18:45:44, topoff, on
+18:45:44, alarm, 1, input closed
+18:45:44, timeout set
+18:46:12, circ, 48
+18:46:32, circ, 33.3
+18:46:44, topoff, off
+18:47:12, circ, 48
+18:47:32, circ, 33.3
+18:48:13, circ, 48
+18:48:33, circ, 33.3
+18:48:44, topoff, on
+18:48:44, alarm, 1, input closed
+18:48:44, timeout set
+18:49:13, circ, 48
+18:49:33, circ, 33.3
+18:49:44, topoff, off
+18:50:13, circ, 48
+18:50:33, circ, 33.3
+18:51:13, circ, 48
+18:51:33, circ, 33.3
+18:51:36, diverter, on
+18:51:44, topoff, on
+18:51:44, alarm, 1, input closed
+18:51:44, timeout set
+18:52:13, circ, 48
+18:52:33, circ, 33.3
+18:52:44, topoff, off
+18:53:13, circ, 48
+18:53:33, circ, 33.3
+18:54:13, circ, 48
+18:54:33, circ, 33.3
+18:54:44, topoff, on
+18:54:44, alarm, 1, input closed
+18:54:44, timeout set
+18:55:13, circ, 48
+18:55:33, circ, 33.3
+18:55:44, topoff, off
+18:56:13, circ, 48
+18:56:33, circ, 33.3
+18:57:13, circ, 48
+18:57:33, circ, 33.3
+18:57:44, topoff, on
+18:57:44, alarm, 1, input closed
+18:57:44, timeout set
+18:58:13, circ, 48
+18:58:33, circ, 33.3
+18:58:44, topoff, off
+18:59:13, circ, 48
+18:59:33, circ, 33.3
+19:0:13, circ, 48
+19:0:33, circ, 33.3
+19:0:44, topoff, on
+19:0:44, alarm, 1, input closed
+19:0:44, timeout set
+19:1:13, circ, 48
+19:1:33, circ, 33.3
+19:1:44, topoff, off
+19:2:13, circ, 48
+19:2:33, circ, 33.3
+19:3:13, circ, 48
+19:3:33, circ, 33.3
+19:3:44, topoff, on
+19:3:44, alarm, 1, input closed
+19:3:44, timeout set
+19:4:13, circ, 48
+19:4:33, circ, 33.3
+19:4:44, topoff, off
+19:5:13, circ, 48
+19:5:33, circ, 33.3
+19:6:13, circ, 48
+19:6:33, circ, 33.3
+19:6:44, topoff, on
+19:6:44, alarm, 1, input closed
+19:6:44, timeout set
+19:7:13, circ, 48
+19:7:33, circ, 33.3
+19:7:44, topoff, off
+19:8:13, circ, 48
+19:8:33, circ, 33.3
+19:9:13, circ, 48
+19:9:33, circ, 33.3
+19:9:44, topoff, on
+19:9:44, alarm, 1, input closed
+19:9:44, timeout set
+19:10:13, circ, 48
+19:10:33, circ, 33.3
+19:10:44, topoff, off
+19:11:13, circ, 48
+19:11:33, circ, 33.3
+19:12:13, circ, 48
+19:12:33, circ, 33.3
+19:12:44, topoff, on
+19:12:44, alarm, 1, input closed
+19:12:44, timeout set
+19:13:13, circ, 48
+19:13:33, circ, 33.3
+19:13:44, topoff, off
+19:14:13, circ, 48
+19:14:33, circ, 33.3
+19:15:14, circ, 48
+19:15:34, circ, 33.3
+19:15:44, topoff, on
+19:15:44, alarm, 1, input closed
+19:15:44, timeout set
+19:16:14, circ, 48
+19:16:34, circ, 33.3
+19:16:44, topoff, off
+19:17:14, circ, 48
+19:17:34, circ, 33.3
+19:18:14, circ, 48
+19:18:34, circ, 33.3
+19:18:44, topoff, on
+19:18:45, alarm, 1, input closed
+19:18:45, timeout set
+19:19:14, circ, 48
+19:19:34, circ, 33.3
+19:19:45, topoff, off
+19:20:14, circ, 48
+19:20:34, circ, 33.3
+19:21:14, circ, 48
+19:21:34, circ, 33.3
+19:21:36, diverter, off
+19:21:45, topoff, on
+19:21:45, alarm, 1, input closed
+19:21:45, timeout set
+19:22:14, circ, 48
+19:22:34, circ, 33.3
+19:22:45, topoff, off
+19:23:14, circ, 48
+19:23:34, circ, 33.3
+19:24:14, circ, 48
+19:24:34, circ, 33.3
+19:24:45, topoff, on
+19:24:45, alarm, 1, input closed
+19:24:45, timeout set
+19:25:14, circ, 48
+19:25:34, circ, 33.3
+19:25:45, topoff, off
+19:26:14, circ, 48
+19:26:34, circ, 33.3
+19:27:14, circ, 48
+19:27:34, circ, 33.3
+19:27:45, topoff, on
+19:27:45, alarm, 1, input closed
+19:27:45, timeout set
+19:28:14, circ, 48
+19:28:34, circ, 33.3
+19:28:45, topoff, off
+19:29:14, circ, 48
+19:29:34, circ, 33.3
+19:30:14, circ, 48
+19:30:34, circ, 33.3
+19:30:45, topoff, on
+19:30:45, alarm, 1, input closed
+19:30:45, timeout set
+19:31:14, circ, 48
+19:31:34, circ, 33.3
+19:31:45, topoff, off
+19:32:14, circ, 48
+19:32:34, circ, 33.3
+19:33:14, circ, 48
+19:33:34, circ, 33.3
+19:33:45, topoff, on
+19:33:45, alarm, 1, input closed
+19:33:45, timeout set
+19:34:14, circ, 48
+19:34:34, circ, 33.3
+19:34:45, topoff, off
+19:35:14, circ, 48
+19:35:34, circ, 33.3
+19:36:14, circ, 48
+19:36:34, circ, 33.3
+19:36:45, topoff, on
+19:36:45, alarm, 1, input closed
+19:36:45, timeout set
+19:37:14, circ, 48
+19:37:34, circ, 33.3
+19:37:45, topoff, off
+19:38:14, circ, 48
+19:38:34, circ, 33.3
+19:39:14, circ, 48
+19:39:34, circ, 33.3
+19:39:45, topoff, on
+19:39:45, alarm, 1, input closed
+19:39:45, timeout set
+19:40:14, circ, 48
+19:40:34, circ, 33.3
+19:40:45, topoff, off
+19:41:14, circ, 48
+19:41:34, circ, 33.3
+19:42:14, circ, 48
+19:42:35, circ, 33.3
+19:42:45, topoff, on
+19:42:45, alarm, 1, input closed
+19:42:45, timeout set
+19:43:15, circ, 48
+19:43:35, circ, 33.3
+19:43:45, topoff, off
+19:44:15, circ, 48
+19:44:35, circ, 33.3
+19:45:15, circ, 48
+19:45:35, circ, 33.3
+19:45:45, topoff, on
+19:45:45, alarm, 1, input closed
+19:45:45, timeout set
+19:46:15, circ, 48
+19:46:35, circ, 33.3
+19:46:45, topoff, off
+19:47:15, circ, 48
+19:47:35, circ, 33.3
+19:48:15, circ, 48
+19:48:35, circ, 33.3
+19:48:45, topoff, on
+19:48:45, alarm, 1, input closed
+19:48:45, timeout set
+19:49:15, circ, 48
+19:49:35, circ, 33.3
+19:49:45, topoff, off
+19:50:15, circ, 48
+19:50:35, circ, 33.3
+19:51:15, circ, 48
+19:51:35, circ, 33.3
+19:51:36, diverter, on
+19:51:45, topoff, on
+19:51:45, alarm, 1, input closed
+19:51:45, timeout set
+19:52:15, circ, 48
+19:52:35, circ, 33.3
+19:52:45, topoff, off
+19:53:15, circ, 48
+19:53:35, circ, 33.3
+19:54:15, circ, 48
+19:54:35, circ, 33.3
+19:54:45, topoff, on
+19:54:45, alarm, 1, input closed
+19:54:45, timeout set
+19:55:15, circ, 48
+19:55:35, circ, 33.3
+19:55:45, topoff, off
+19:56:15, circ, 48
+19:56:35, circ, 33.3
+19:57:15, circ, 48
+19:57:35, circ, 33.3
+19:57:45, topoff, on
+19:57:45, alarm, 1, input closed
+19:57:45, timeout set
+19:58:15, circ, 48
+19:58:35, circ, 33.3
+19:58:45, topoff, off
+19:59:15, circ, 48
+19:59:35, circ, 33.3
+20:0:15, circ, 48
+20:0:35, circ, 33.3
+20:0:38, sumplight, 1
+20:0:45, topoff, on
+20:0:45, alarm, 1, input closed
+20:0:45, timeout set
+20:1:15, circ, 48
+20:1:35, circ, 33.3
+20:1:45, topoff, off
+20:2:15, circ, 48
+20:2:35, circ, 33.3
+20:3:15, circ, 48
+20:3:35, circ, 33.3
+20:3:45, topoff, on
+20:3:45, alarm, 1, input closed
+20:3:45, timeout set
+20:4:15, circ, 48
+20:4:35, circ, 33.3
+20:4:45, topoff, off
+20:5:15, circ, 48
+20:5:35, circ, 33.3
+20:6:15, circ, 48
+20:6:35, circ, 33.3
+20:6:45, topoff, on
+20:6:45, alarm, 1, input closed
+20:6:45, timeout set
+20:7:15, circ, 48
+20:7:35, circ, 33.3
+20:7:45, topoff, off
+20:8:15, circ, 48
+20:8:35, circ, 33.3
+20:9:15, circ, 48
+20:9:36, circ, 33.3
+20:9:45, topoff, on
+20:9:45, alarm, 1, input closed
+20:9:45, timeout set
+20:10:16, circ, 48
+20:10:36, circ, 33.3
+20:10:45, topoff, off
+20:11:16, circ, 48
+20:11:36, circ, 33.3
+20:12:16, circ, 48
+20:12:36, circ, 33.3
+20:12:45, topoff, on
+20:12:45, alarm, 1, input closed
+20:12:45, timeout set
+20:13:16, circ, 48
+20:13:36, circ, 33.3
+20:13:45, topoff, off
+20:14:16, circ, 48
+20:14:36, circ, 33.3
+20:15:16, circ, 48
+20:15:36, circ, 33.3
+20:15:45, topoff, on
+20:15:45, alarm, 1, input closed
+20:15:45, timeout set
+20:16:16, circ, 48
+20:16:36, circ, 33.3
+20:16:45, topoff, off
+20:17:16, circ, 48
+20:17:36, circ, 33.3
+20:18:16, circ, 48
+20:18:36, circ, 33.3
+20:18:45, topoff, on
+20:18:45, alarm, 1, input closed
+20:18:45, timeout set
+20:19:16, circ, 48
+20:19:36, circ, 33.3
+20:19:45, topoff, off
+20:20:16, circ, 48
+20:20:36, circ, 33.3
+20:21:16, circ, 48
+20:21:36, sumpcirc, left, off
+20:21:36, sumpcirc, right, on
+20:21:36, circ, 33.3
+20:21:36, diverter, off
+20:21:45, topoff, on
+20:21:45, alarm, 1, input closed
+20:21:45, timeout set
+20:22:16, circ, 48
+20:22:36, circ, 33.3
+20:22:45, topoff, off
+20:23:16, circ, 48
+20:23:36, circ, 33.3
+20:24:16, circ, 48
+20:24:36, circ, 33.3
+20:24:45, topoff, on
+20:24:45, alarm, 1, input closed
+20:24:45, timeout set
+20:25:16, circ, 48
+20:25:36, circ, 33.3
+20:25:45, topoff, off
+20:26:16, circ, 48
+20:26:36, circ, 33.3
+20:27:16, circ, 48
+20:27:36, circ, 33.3
+20:27:45, topoff, on
+20:27:45, alarm, 1, input closed
+20:27:45, timeout set
+20:28:16, circ, 48
+20:28:36, circ, 33.3
+20:28:45, topoff, off
+20:29:16, circ, 48
+20:29:36, circ, 33.3
+20:30:16, circ, 48
+20:30:36, circ, 33.3
+20:30:45, topoff, on
+20:30:45, alarm, 1, input closed
+20:30:45, timeout set
+20:31:16, circ, 48
+20:31:36, circ, 33.3
+20:31:45, topoff, off
+20:32:16, circ, 48
+20:32:36, circ, 33.3
+20:33:16, circ, 48
+20:33:36, circ, 33.3
+20:33:45, topoff, on
+20:33:45, alarm, 1, input closed
+20:33:45, timeout set
+20:34:16, circ, 48
+20:34:36, circ, 33.3
+20:34:45, topoff, off
+20:35:16, circ, 48
+20:35:36, circ, 33.3
+20:36:16, circ, 48
+20:36:36, circ, 33.3
+20:36:45, topoff, on
+20:36:45, alarm, 1, input closed
+20:36:45, timeout set
+20:37:17, circ, 48
+20:37:37, circ, 33.3
+20:37:45, topoff, off
+20:38:17, circ, 48
+20:38:37, circ, 33.3
+20:39:17, circ, 48
+20:39:37, circ, 33.3
+20:39:45, topoff, on
+20:39:45, alarm, 1, input closed
+20:39:45, timeout set
+20:40:17, circ, 48
+20:40:37, circ, 33.3
+20:40:45, topoff, off
+20:41:17, circ, 48
+20:41:37, circ, 33.3
+20:42:17, circ, 48
+20:42:37, circ, 33.3
+20:42:45, topoff, on
+20:42:45, alarm, 1, input closed
+20:42:45, timeout set
+20:43:17, circ, 48
+20:43:37, circ, 33.3
+20:43:45, topoff, off
+20:44:17, circ, 48
+20:44:37, circ, 33.3
+20:45:17, circ, 48
+20:45:37, circ, 33.3
+20:45:45, topoff, on
+20:45:45, alarm, 1, input closed
+20:45:45, timeout set
+20:46:17, circ, 48
+20:46:37, circ, 33.3
+20:46:45, topoff, off
+20:47:17, circ, 48
+20:47:37, circ, 33.3
+20:48:17, circ, 48
+20:48:37, circ, 33.3
+20:48:45, topoff, on
+20:48:45, alarm, 1, input closed
+20:48:45, timeout set
+20:49:17, circ, 48
+20:49:37, circ, 33.3
+20:49:45, topoff, off
+20:50:17, circ, 48
+20:50:37, circ, 33.3
+20:51:17, circ, 48
+20:51:36, diverter, on
+20:51:37, circ, 33.3
+20:51:45, topoff, on
+20:51:45, alarm, 1, input closed
+20:51:45, timeout set
+20:52:17, circ, 48
+20:52:37, circ, 33.3
+20:52:45, topoff, off
+20:53:17, circ, 48
+20:53:37, circ, 33.3
+20:54:17, circ, 48
+20:54:37, circ, 33.3
+20:54:45, topoff, on
+20:54:45, alarm, 1, input closed
+20:54:45, timeout set
+20:55:17, circ, 48
+20:55:37, circ, 33.3
+20:55:45, topoff, off
+20:56:17, circ, 48
+20:56:37, circ, 33.3
+20:57:17, circ, 48
+20:57:37, circ, 33.3
+20:57:45, topoff, on
+20:57:45, alarm, 1, input closed
+20:57:45, timeout set
+20:58:17, circ, 48
+20:58:37, circ, 33.3
+20:58:45, topoff, off
+20:59:17, circ, 48
+20:59:37, circ, 33.3
+21:0:17, circ, 48
+21:0:37, circ, 33.3
+21:0:45, topoff, on
+21:0:45, alarm, 1, input closed
+21:0:45, timeout set
+21:1:17, circ, 48
+21:1:37, circ, 33.3
+21:1:45, topoff, off
+21:2:17, circ, 48
+21:2:37, circ, 33.3
+21:3:17, circ, 48
+21:3:37, circ, 33.3
+21:3:45, topoff, on
+21:3:45, alarm, 1, input closed
+21:3:45, timeout set
+21:4:18, circ, 48
+21:4:38, circ, 33.3
+21:4:45, topoff, off
+21:5:18, circ, 48
+21:5:38, circ, 33.3
+21:6:18, circ, 48
+21:6:38, circ, 33.3
+21:6:45, topoff, on
+21:6:45, alarm, 1, input closed
+21:6:45, timeout set
+21:7:18, circ, 48
+21:7:38, circ, 33.3
+21:7:45, topoff, off
+21:8:18, circ, 48
+21:8:38, circ, 33.3
+21:9:18, circ, 48
+21:9:38, circ, 33.3
+21:9:45, topoff, on
+21:9:45, alarm, 1, input closed
+21:9:45, timeout set
+21:10:18, circ, 48
+21:10:38, circ, 33.3
+21:10:45, topoff, off
+21:11:18, circ, 48
+21:11:38, circ, 33.3
+21:12:18, circ, 48
+21:12:38, circ, 33.3
+21:12:45, topoff, on
+21:12:45, alarm, 1, input closed
+21:12:45, timeout set
+21:13:18, circ, 48
+21:13:38, circ, 33.3
+21:13:45, topoff, off
+21:14:18, circ, 48
+21:14:38, circ, 33.3
+21:15:18, circ, 48
+21:15:38, circ, 33.3
+21:15:45, topoff, on
+21:15:45, alarm, 1, input closed
+21:15:45, timeout set
+21:16:18, circ, 48
+21:16:38, circ, 33.3
+21:16:45, topoff, off
+21:17:18, circ, 48
+21:17:38, circ, 33.3
+21:18:18, circ, 48
+21:18:38, circ, 33.3
+21:18:45, topoff, on
+21:18:45, alarm, 1, input closed
+21:18:45, timeout set
+21:19:18, circ, 48
+21:19:38, circ, 33.3
+21:19:45, topoff, off
+21:20:18, circ, 48
+21:20:38, circ, 33.3
+21:21:18, circ, 48
+21:21:36, diverter, off
+21:21:38, circ, 33.3
+21:21:45, topoff, on
+21:21:45, alarm, 1, input closed
+21:21:45, timeout set
+21:22:18, circ, 48
+21:22:38, circ, 33.3
+21:22:45, topoff, off
+21:23:18, circ, 48
+21:23:38, circ, 33.3
+21:24:18, circ, 48
+21:24:38, circ, 33.3
+21:24:45, topoff, on
+21:24:45, alarm, 1, input closed
+21:24:45, timeout set
+21:25:18, circ, 48
+21:25:38, circ, 33.3
+21:25:45, topoff, off
+21:26:18, circ, 48
+21:26:38, circ, 33.3
+21:27:18, circ, 48
+21:27:38, circ, 33.3
+21:27:45, topoff, on
+21:27:45, alarm, 1, input closed
+21:27:45, timeout set
+21:28:18, circ, 48
+21:28:38, circ, 33.3
+21:28:45, topoff, off
+21:29:18, circ, 48
+21:29:38, circ, 33.3
+21:30:18, circ, 48
+21:30:38, circ, 33.3
+21:30:45, topoff, on
+21:30:45, alarm, 1, input closed
+21:30:45, timeout set
+21:31:18, circ, 48
+21:31:39, circ, 33.3
+21:31:45, topoff, off
+21:32:19, circ, 48
+21:32:39, circ, 33.3
+21:33:19, circ, 48
+21:33:39, circ, 33.3
+21:33:45, topoff, on
+21:33:45, alarm, 1, input closed
+21:33:45, timeout set
+21:34:19, circ, 48
+21:34:39, circ, 33.3
+21:34:45, topoff, off
+21:35:19, circ, 48
+21:35:39, circ, 33.3
+21:36:19, circ, 48
+21:36:39, circ, 33.3
+21:36:45, topoff, on
+21:36:45, alarm, 1, input closed
+21:36:45, timeout set
+21:37:19, circ, 48
+21:37:39, circ, 33.3
+21:37:45, topoff, off
+21:38:19, circ, 48
+21:38:39, circ, 33.3
+21:39:19, circ, 48
+21:39:39, circ, 33.3
+21:39:45, topoff, on
+21:39:45, alarm, 1, input closed
+21:39:45, timeout set
+21:40:19, circ, 48
+21:40:39, circ, 33.3
+21:40:45, topoff, off
+21:41:19, circ, 48
+21:41:39, circ, 33.3
+21:42:19, circ, 48
+21:42:39, circ, 33.3
+21:42:45, topoff, on
+21:42:45, alarm, 1, input closed
+21:42:45, timeout set
+21:43:19, circ, 48
+21:43:39, circ, 33.3
+21:43:45, topoff, off
+21:44:19, circ, 48
+21:44:39, circ, 33.3
+21:45:19, circ, 48
+21:45:39, circ, 33.3
+21:45:45, topoff, on
+21:45:45, alarm, 1, input closed
+21:45:45, timeout set
+21:46:19, circ, 48
+21:46:39, circ, 33.3
+21:46:45, topoff, off
+21:47:19, circ, 48
+21:47:39, circ, 33.3
+21:48:19, circ, 48
+21:48:39, circ, 33.3
+21:48:45, topoff, on
+21:48:45, alarm, 1, input closed
+21:48:45, timeout set
+21:49:19, circ, 48
+21:49:39, circ, 33.3
+21:49:45, topoff, off
+21:50:19, circ, 48
+21:50:39, circ, 33.3
+21:51:19, circ, 48
+21:51:36, diverter, on
+21:51:39, circ, 33.3
+21:51:45, topoff, on
+21:51:45, alarm, 1, input closed
+21:51:45, timeout set
+21:52:19, circ, 48
+21:52:39, circ, 33.3
+21:52:45, topoff, off
+21:53:19, circ, 48
+21:53:39, circ, 33.3
+21:54:19, circ, 48
+21:54:39, circ, 33.3
+21:54:45, topoff, on
+21:54:45, alarm, 1, input closed
+21:54:45, timeout set
+21:55:19, circ, 48
+21:55:39, circ, 33.3
+21:55:45, topoff, off
+21:56:19, circ, 48
+21:56:39, circ, 33.3
+21:57:19, circ, 48
+21:57:39, circ, 33.3
+21:57:45, topoff, on
+21:57:45, alarm, 1, input closed
+21:57:45, timeout set
+21:58:19, circ, 48
+21:58:39, circ, 33.3
+21:58:45, topoff, off
+21:59:20, circ, 48
+21:59:40, circ, 33.3
+22:0:20, circ, 48
+22:0:40, circ, 33.3
+22:0:45, topoff, on
+22:0:45, alarm, 1, input closed
+22:0:45, timeout set
+22:1:20, circ, 48
+22:1:40, circ, 33.3
+22:1:45, topoff, off
+22:2:20, circ, 48
+22:2:40, circ, 33.3
+22:3:20, circ, 48
+22:3:40, circ, 33.3
+22:3:45, topoff, on
+22:3:45, alarm, 1, input closed
+22:3:45, timeout set
+22:4:20, circ, 48
+22:4:40, circ, 33.3
+22:4:45, topoff, off
+22:5:20, circ, 48
+22:5:40, circ, 33.3
+22:6:20, circ, 48
+22:6:40, circ, 33.3
+22:6:45, topoff, on
+22:6:45, alarm, 1, input closed
+22:6:45, timeout set
+22:7:20, circ, 48
+22:7:40, circ, 33.3
+22:7:45, topoff, off
+22:8:20, circ, 48
+22:8:40, circ, 33.3
+22:9:20, circ, 48
+22:9:40, circ, 33.3
+22:9:45, topoff, on
+22:9:45, alarm, 1, input closed
+22:9:45, timeout set
+22:10:20, circ, 48
+22:10:40, circ, 33.3
+22:10:45, topoff, off
+22:11:20, circ, 48
+22:11:40, circ, 33.3
+22:12:20, circ, 48
+22:12:40, circ, 33.3
+22:12:45, interval cleared
+22:12:45, topoff, complete
+22:12:45, timeout set
+22:13:20, circ, 48
+22:13:40, circ, 33.3
+22:13:45, topoff, off
+22:14:20, circ, 48
+22:14:40, circ, 33.3
+22:15:20, circ, 48
+22:15:40, circ, 33.3
+22:16:20, circ, 48
+22:16:40, circ, 33.3
+22:17:20, circ, 48
+22:17:40, circ, 33.3
+22:18:20, circ, 48
+22:18:40, circ, 33.3
+22:19:20, circ, 48
+22:19:40, circ, 33.3
+22:20:20, circ, 48
+22:20:40, circ, 33.3
+22:21:20, circ, 48
+22:21:36, diverter, off
+22:21:40, circ, 33.3
+22:22:20, circ, 48
+22:22:40, circ, 33.3
+22:23:20, circ, 48
+22:23:40, circ, 33.3
+22:24:20, circ, 48
+22:24:40, circ, 33.3
+22:25:20, circ, 48
+22:25:40, circ, 33.3
+22:26:21, circ, 48
+22:26:41, circ, 33.3
+22:27:21, circ, 48
+22:27:41, circ, 33.3
+22:28:21, circ, 48
+22:28:41, circ, 33.3
+22:29:21, circ, 48
+22:29:41, circ, 33.3
+22:30:21, circ, 48
+22:30:38, tanklight, left, 0
+22:30:41, circ, 33.3
+22:31:21, circ, 48
+22:31:41, circ, 33.3
+22:32:21, circ, 48
+22:32:41, circ, 33.3
+22:33:21, circ, 48
+22:33:41, circ, 33.3
+22:34:21, circ, 48
+22:34:41, circ, 33.3
+22:35:21, circ, 48
+22:35:41, circ, 33.3
+22:36:21, circ, 48
+22:36:41, circ, 33.3
+22:37:21, circ, 48
+22:37:41, circ, 33.3
+22:38:21, circ, 48
+22:38:41, circ, 33.3
+22:39:21, circ, 48
+22:39:41, circ, 33.3
+22:40:21, circ, 48
+22:40:41, circ, 33.3
+22:41:21, circ, 48
+22:41:41, circ, 33.3
+22:42:21, circ, 48
+22:42:41, circ, 33.3
+22:43:21, circ, 48
