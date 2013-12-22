@@ -4,23 +4,25 @@ var daytime = require('./tanklight').daytime;
 var diverter = require('./rb').open(0,4);
 
 var flowTime_day = 20 * 1000;
-var flowHz_day = 48.0;
+var flowHz_day = 53.0;
 
 var ebbTime_day	= 40 * 1000;
 var ebbHz_day = 33.3;
 
-var flowTime_night = 30 * 1000;
-var flowHz_night = 36.0;
+var flowTime_night = 60 * 1000;
+var flowHz_night = 33.3;
 
 var ebbTime_night = 5 * 60 * 1000;
-var ebbHz_night = 28.0;
+var ebbHz_night = 25.0;
 
 execProc = function( hz, func, time )
 {
 	hz = hz + hz * (Math.random()-0.5) * 0.2;	// randomize flow by +/- 10%
 	hz = hz.toFixed(1);
 	execFile("./x200", [ hz ] );
-	log("circ, %d, %d", hz, time / 1000 );
+	time = time + time * (Math.random()-0.5) * 0.4;  // randomize time by +/- 20%
+	
+	log("circ, %d, %d", hz, (time / 1000).toFixed(1) );
 	setTimeout( func, time );
 }
 
@@ -40,11 +42,11 @@ flow = function()
 {
 	if( daytime() )
 	{
-		execProc( flowHz_day, ebb, flowHz_day );
+		execProc( flowHz_day, ebb, flowTime_day );
 	}
 	else
 	{
-		execProc( flowHz_night, ebb, flowHz_night );
+		execProc( flowHz_night, ebb, flowTime_night );
 	}
 }
 
