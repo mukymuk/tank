@@ -67,34 +67,6 @@ createBinary = function( func, onPeriod, offPeriod )
 	return periodic;
 }
 
-/* 
- 
-both = function( periodic, arg )
-{
-	if( arg )
-	{
-		on();
-	}
-	else
-	{
-		off();
-		periodic.Stop();
-	}
-}
-on = function()
-{
-	log("on");
-}
-
-off = function()
-{
-	log("off");
-}
- 
-var p = createBinary( both, 3, 6 );
-
-p.Start();
-*/
 module.exports =
 {
 	createBinary: createBinary,

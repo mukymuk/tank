@@ -8,6 +8,7 @@ var tanklight = require('./tanklight');
 var diurnalevent = require('./diurnal');
 var tanklight = require('./tanklight');
 var sumplight = require('./sumplight');
+var chaetolight = require('./chaetolight');
 var topoff = require('./topoff');
 var gpio = require('./gpio');
 
@@ -47,62 +48,16 @@ var centerLampConfig =
 	"23:00-12:00,0",
 ];
 
-/*
-var leftLampConfig = 
-[
-	"11:30+02:00,600",
-	"13:30+2:45,750",
-	"15:15+02:00,1000",
-	"18:15+02:45,750",
-	"21:00+02:00,600",
-	"23:00-11:30,0",
-];
-
-var rightLampConfig =
-[
-	"11:45+02:00,600",
-	"13:45+2:45,750",
-	"16:15+02:00,1000",
-	"18:15+02:45,750",
-	"21:00+02:00,600",
-	"23:00-11:45,0",
-];
-
-var centerLampConfig =
-[
-	"12:00+02:00,600",
-	"14:00+2:45,750",
-	"16:45+02:00,1000",
-	"18:45+02:45,750",
-	"21:30+02:00,600",
-	"23:30-12:00,0",
-];
-
-*/
-
-/*
-var leftLampConfig = 
-[
-	"12:00+11:00,600",
-	"23:00-12:00,0",
-];
-
-var rightLampConfig =
-[
-	"12:15+11:00,600",
-	"23:15-12:15,0",
-];
-
-var centerLampConfig =
-[
-	"12:30+11:00,600",
-	"23:30-12:30,0",
-];
-*/
 var sumpLightConfig = 
 [ 
 	"20:00-07:00,1",
 	"07:00-20:00,0"
+];
+
+var cheatoLightConfig =
+[
+	"0:00+16:00,750",
+	"16:00+8:00,0"
 ];
 
 var lampConfig =
@@ -110,7 +65,8 @@ var lampConfig =
 	{ event:tanklight.open("left"), config: leftLampConfig },
 	{ event:tanklight.open("right"), config: rightLampConfig },
 	{ event:tanklight.open("center"), config: centerLampConfig },
-	{ event:sumplight.open(), config: sumpLightConfig }
+	{ event:sumplight.open(), config: sumpLightConfig },
+	{ event:chaetolight.open(), config: cheatoLightConfig }
 ];
 
 
