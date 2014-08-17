@@ -3,17 +3,27 @@ var log = require('./log').log;
 var daytime = require('./tanklight').daytime;
 var diverter = require('./rb').open(0,4);
 
+
 var flowTime_day = 20 * 1000;
-var flowHz_day = 53.0;
+var flowHz_day = 59.9;
 
 var ebbTime_day	= 40 * 1000;
-var ebbHz_day = 33.3;
+var ebbHz_day = 45.1;
+
+
+/*
+var flowTime_day = 20 * 1000;
+var flowHz_day = 59.0;
+
+var ebbTime_day	= 40 * 1000;
+var ebbHz_day = 40.0;
+*/
 
 var flowTime_night = 60 * 1000;
-var flowHz_night = 33.3;
+var flowHz_night = 59.0;
 
 var ebbTime_night = 5 * 60 * 1000;
-var ebbHz_night = 25.0;
+var ebbHz_night = 45.0;
 
 execProc = function( hz, func, time )
 {
@@ -65,6 +75,8 @@ divert = function()
 	if( daytime() )
 	{
 		setTimeout( divert, 30 * 60 * 1000 );	// 30 minutes
+//		setTimeout( divert, 90 * 1000 );	// 1:30 minutes
+
 	}
 	else
 	{

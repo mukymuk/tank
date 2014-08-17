@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # enable SPI access from userland
-
+echo tank-mux:  configuring gpio multiplexer
+logger tank-mux:  configuring gpio multiplexer
 
 output ()
 {
