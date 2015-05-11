@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # sets relay
-# rb <board> <relay> < on | off >
+# rb <board> <relay> < 1 | 0 >
 
 # return relay state
 # rb <board> <relay>
